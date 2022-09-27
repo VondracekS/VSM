@@ -1,0 +1,1323 @@
+Man,Movie,fMan,fMovie
+0,5,woman,highly negative
+0,5,woman,highly negative
+1,2,man,positive
+0,2,woman,positive
+0,4,woman,negative
+1,4,man,negative
+0,4,woman,negative
+0,4,woman,negative
+0,3,woman,neutral
+0,4,woman,negative
+0,1,woman,highly positive
+1,4,man,negative
+0,5,woman,highly negative
+0,5,woman,highly negative
+1,5,man,highly negative
+1,2,man,positive
+0,3,woman,neutral
+1,2,man,positive
+1,2,man,positive
+1,2,man,positive
+0,5,woman,highly negative
+0,2,woman,positive
+1,4,man,negative
+1,4,man,negative
+1,2,man,positive
+0,4,woman,negative
+1,3,man,neutral
+1,4,man,negative
+1,2,man,positive
+0,3,woman,neutral
+0,4,woman,negative
+0,4,woman,negative
+0,4,woman,negative
+0,2,woman,positive
+1,5,man,highly negative
+0,3,woman,neutral
+0,2,woman,positive
+0,2,woman,positive
+1,3,man,neutral
+0,1,woman,highly positive
+1,2,man,positive
+1,3,man,neutral
+0,2,woman,positive
+0,3,woman,neutral
+0,1,woman,highly positive
+1,4,man,negative
+0,4,woman,negative
+0,4,woman,negative
+1,3,man,neutral
+0,4,woman,negative
+1,2,man,positive
+0,3,woman,neutral
+1,2,man,positive
+0,2,woman,positive
+0,3,woman,neutral
+0,4,woman,negative
+0,5,woman,highly negative
+0,2,woman,positive
+0,2,woman,positive
+0,4,woman,negative
+0,2,woman,positive
+1,2,man,positive
+0,3,woman,neutral
+0,4,woman,negative
+1,2,man,positive
+0,2,woman,positive
+0,1,woman,highly positive
+0,2,woman,positive
+1,5,man,highly negative
+0,2,woman,positive
+0,1,woman,highly positive
+1,5,man,highly negative
+0,4,woman,negative
+1,3,man,neutral
+1,3,man,neutral
+0,3,woman,neutral
+0,1,woman,highly positive
+0,4,woman,negative
+0,3,woman,neutral
+1,4,man,negative
+1,4,man,negative
+1,4,man,negative
+0,3,woman,neutral
+0,4,woman,negative
+0,3,woman,neutral
+0,3,woman,neutral
+0,1,woman,highly positive
+0,3,woman,neutral
+0,4,woman,negative
+1,2,man,positive
+1,4,man,negative
+0,3,woman,neutral
+0,3,woman,neutral
+0,4,woman,negative
+0,5,woman,highly negative
+0,4,woman,negative
+0,1,woman,highly positive
+1,5,man,highly negative
+0,3,woman,neutral
+0,2,woman,positive
+0,4,woman,negative
+0,3,woman,neutral
+1,2,man,positive
+0,4,woman,negative
+0,4,woman,negative
+1,2,man,positive
+0,2,woman,positive
+0,4,woman,negative
+0,4,woman,negative
+1,2,man,positive
+1,3,man,neutral
+1,5,man,highly negative
+0,3,woman,neutral
+1,4,man,negative
+0,5,woman,highly negative
+0,5,woman,highly negative
+0,5,woman,highly negative
+0,2,woman,positive
+0,4,woman,negative
+0,4,woman,negative
+1,3,man,neutral
+0,4,woman,negative
+1,3,man,neutral
+0,5,woman,highly negative
+1,3,man,neutral
+0,3,woman,neutral
+0,1,woman,highly positive
+0,1,woman,highly positive
+0,4,woman,negative
+0,2,woman,positive
+1,4,man,negative
+0,5,woman,highly negative
+1,3,man,neutral
+0,4,woman,negative
+1,2,man,positive
+1,4,man,negative
+1,4,man,negative
+0,4,woman,negative
+0,3,woman,neutral
+0,3,woman,neutral
+0,3,woman,neutral
+1,2,man,positive
+0,3,woman,neutral
+0,3,woman,neutral
+0,5,woman,highly negative
+1,5,man,highly negative
+1,2,man,positive
+1,2,man,positive
+1,2,man,positive
+0,1,woman,highly positive
+1,5,man,highly negative
+0,4,woman,negative
+0,3,woman,neutral
+1,2,man,positive
+1,2,man,positive
+1,2,man,positive
+1,3,man,neutral
+1,3,man,neutral
+0,3,woman,neutral
+1,4,man,negative
+0,5,woman,highly negative
+1,4,man,negative
+0,5,woman,highly negative
+1,4,man,negative
+0,4,woman,negative
+0,2,woman,positive
+1,2,man,positive
+0,3,woman,neutral
+0,4,woman,negative
+0,2,woman,positive
+1,2,man,positive
+0,2,woman,positive
+0,4,woman,negative
+0,3,woman,neutral
+1,5,man,highly negative
+1,3,man,neutral
+1,2,man,positive
+0,5,woman,highly negative
+0,2,woman,positive
+1,3,man,neutral
+1,3,man,neutral
+0,4,woman,negative
+1,4,man,negative
+1,1,man,highly positive
+1,3,man,neutral
+1,4,man,negative
+0,4,woman,negative
+1,4,man,negative
+0,3,woman,neutral
+1,3,man,neutral
+0,4,woman,negative
+1,1,man,highly positive
+1,4,man,negative
+1,3,man,neutral
+1,2,man,positive
+0,4,woman,negative
+0,2,woman,positive
+0,4,woman,negative
+0,3,woman,neutral
+0,4,woman,negative
+0,4,woman,negative
+0,3,woman,neutral
+0,3,woman,neutral
+1,2,man,positive
+0,1,woman,highly positive
+0,2,woman,positive
+1,2,man,positive
+0,4,woman,negative
+1,2,man,positive
+1,4,man,negative
+0,4,woman,negative
+1,3,man,neutral
+0,4,woman,negative
+1,3,man,neutral
+0,3,woman,neutral
+1,1,man,highly positive
+0,4,woman,negative
+0,2,woman,positive
+0,4,woman,negative
+1,2,man,positive
+1,2,man,positive
+1,2,man,positive
+1,4,man,negative
+1,3,man,neutral
+0,5,woman,highly negative
+0,5,woman,highly negative
+1,3,man,neutral
+0,3,woman,neutral
+1,3,man,neutral
+0,3,woman,neutral
+1,3,man,neutral
+1,4,man,negative
+0,2,woman,positive
+1,4,man,negative
+1,3,man,neutral
+1,4,man,negative
+0,4,woman,negative
+0,5,woman,highly negative
+0,3,woman,neutral
+0,1,woman,highly positive
+0,2,woman,positive
+1,4,man,negative
+0,3,woman,neutral
+0,2,woman,positive
+1,3,man,neutral
+0,5,woman,highly negative
+1,3,man,neutral
+0,3,woman,neutral
+0,4,woman,negative
+1,2,man,positive
+1,4,man,negative
+0,4,woman,negative
+0,5,woman,highly negative
+0,2,woman,positive
+0,4,woman,negative
+0,2,woman,positive
+0,4,woman,negative
+1,3,man,neutral
+0,3,woman,neutral
+0,4,woman,negative
+0,3,woman,neutral
+0,1,woman,highly positive
+1,4,man,negative
+0,4,woman,negative
+0,3,woman,neutral
+0,5,woman,highly negative
+1,5,man,highly negative
+1,1,man,highly positive
+1,4,man,negative
+0,1,woman,highly positive
+1,4,man,negative
+1,3,man,neutral
+0,3,woman,neutral
+1,3,man,neutral
+0,2,woman,positive
+1,3,man,neutral
+1,4,man,negative
+0,5,woman,highly negative
+1,3,man,neutral
+0,4,woman,negative
+1,4,man,negative
+0,3,woman,neutral
+1,4,man,negative
+0,2,woman,positive
+1,4,man,negative
+0,3,woman,neutral
+1,2,man,positive
+0,2,woman,positive
+0,3,woman,neutral
+1,3,man,neutral
+1,1,man,highly positive
+0,4,woman,negative
+1,2,man,positive
+1,4,man,negative
+1,2,man,positive
+1,4,man,negative
+1,5,man,highly negative
+1,3,man,neutral
+1,3,man,neutral
+1,3,man,neutral
+0,4,woman,negative
+0,3,woman,neutral
+0,4,woman,negative
+0,4,woman,negative
+1,2,man,positive
+0,4,woman,negative
+1,1,man,highly positive
+1,3,man,neutral
+1,2,man,positive
+1,3,man,neutral
+1,4,man,negative
+0,1,woman,highly positive
+0,4,woman,negative
+0,4,woman,negative
+0,4,woman,negative
+0,2,woman,positive
+0,2,woman,positive
+0,1,woman,highly positive
+0,4,woman,negative
+1,4,man,negative
+0,3,woman,neutral
+0,4,woman,negative
+1,1,man,highly positive
+1,2,man,positive
+0,5,woman,highly negative
+0,3,woman,neutral
+1,4,man,negative
+0,2,woman,positive
+0,4,woman,negative
+1,2,man,positive
+0,5,woman,highly negative
+0,3,woman,neutral
+0,2,woman,positive
+0,4,woman,negative
+1,3,man,neutral
+1,3,man,neutral
+1,3,man,neutral
+0,4,woman,negative
+0,2,woman,positive
+0,5,woman,highly negative
+0,4,woman,negative
+0,4,woman,negative
+0,3,woman,neutral
+1,5,man,highly negative
+1,4,man,negative
+0,5,woman,highly negative
+0,4,woman,negative
+1,2,man,positive
+1,2,man,positive
+0,4,woman,negative
+1,4,man,negative
+1,5,man,highly negative
+0,5,woman,highly negative
+1,4,man,negative
+0,5,woman,highly negative
+0,2,woman,positive
+1,3,man,neutral
+1,3,man,neutral
+1,2,man,positive
+1,3,man,neutral
+0,2,woman,positive
+1,2,man,positive
+0,4,woman,negative
+1,3,man,neutral
+1,2,man,positive
+0,3,woman,neutral
+0,5,woman,highly negative
+0,5,woman,highly negative
+1,3,man,neutral
+0,2,woman,positive
+0,2,woman,positive
+1,4,man,negative
+0,3,woman,neutral
+1,4,man,negative
+1,5,man,highly negative
+0,3,woman,neutral
+0,3,woman,neutral
+0,2,woman,positive
+0,4,woman,negative
+0,5,woman,highly negative
+0,4,woman,negative
+0,2,woman,positive
+0,4,woman,negative
+0,3,woman,neutral
+0,3,woman,neutral
+1,5,man,highly negative
+0,2,woman,positive
+0,3,woman,neutral
+1,4,man,negative
+0,4,woman,negative
+0,1,woman,highly positive
+0,3,woman,neutral
+0,2,woman,positive
+1,4,man,negative
+1,4,man,negative
+1,2,man,positive
+1,3,man,neutral
+1,1,man,highly positive
+1,3,man,neutral
+0,4,woman,negative
+0,4,woman,negative
+0,4,woman,negative
+0,3,woman,neutral
+1,1,man,highly positive
+1,4,man,negative
+0,4,woman,negative
+0,2,woman,positive
+0,3,woman,neutral
+0,3,woman,neutral
+1,3,man,neutral
+0,1,woman,highly positive
+1,4,man,negative
+0,2,woman,positive
+0,3,woman,neutral
+0,2,woman,positive
+1,4,man,negative
+1,2,man,positive
+1,4,man,negative
+0,3,woman,neutral
+1,5,man,highly negative
+1,2,man,positive
+0,5,woman,highly negative
+1,5,man,highly negative
+1,2,man,positive
+0,4,woman,negative
+0,4,woman,negative
+1,2,man,positive
+1,4,man,negative
+0,2,woman,positive
+1,2,man,positive
+1,3,man,neutral
+1,4,man,negative
+0,2,woman,positive
+0,1,woman,highly positive
+0,4,woman,negative
+0,2,woman,positive
+0,3,woman,neutral
+0,2,woman,positive
+1,4,man,negative
+0,4,woman,negative
+1,2,man,positive
+0,4,woman,negative
+0,5,woman,highly negative
+0,3,woman,neutral
+1,3,man,neutral
+0,4,woman,negative
+0,1,woman,highly positive
+1,4,man,negative
+0,4,woman,negative
+0,4,woman,negative
+1,3,man,neutral
+1,1,man,highly positive
+1,4,man,negative
+0,4,woman,negative
+0,5,woman,highly negative
+1,1,man,highly positive
+0,2,woman,positive
+1,2,man,positive
+0,4,woman,negative
+1,3,man,neutral
+0,2,woman,positive
+0,2,woman,positive
+1,4,man,negative
+0,4,woman,negative
+1,2,man,positive
+0,4,woman,negative
+1,2,man,positive
+0,4,woman,negative
+1,4,man,negative
+1,3,man,neutral
+1,2,man,positive
+1,5,man,highly negative
+0,4,woman,negative
+0,2,woman,positive
+1,4,man,negative
+0,3,woman,neutral
+1,3,man,neutral
+1,3,man,neutral
+0,4,woman,negative
+1,2,man,positive
+1,3,man,neutral
+0,4,woman,negative
+0,4,woman,negative
+0,3,woman,neutral
+1,3,man,neutral
+0,4,woman,negative
+0,4,woman,negative
+1,4,man,negative
+1,4,man,negative
+1,2,man,positive
+0,4,woman,negative
+1,2,man,positive
+0,4,woman,negative
+1,2,man,positive
+0,4,woman,negative
+1,2,man,positive
+0,4,woman,negative
+0,4,woman,negative
+1,3,man,neutral
+0,4,woman,negative
+1,4,man,negative
+0,3,woman,neutral
+0,3,woman,neutral
+0,1,woman,highly positive
+1,4,man,negative
+0,3,woman,neutral
+0,1,woman,highly positive
+0,3,woman,neutral
+0,3,woman,neutral
+1,2,man,positive
+1,4,man,negative
+0,3,woman,neutral
+0,2,woman,positive
+0,2,woman,positive
+0,3,woman,neutral
+0,4,woman,negative
+1,1,man,highly positive
+0,3,woman,neutral
+1,2,man,positive
+0,3,woman,neutral
+0,5,woman,highly negative
+1,3,man,neutral
+1,4,man,negative
+0,5,woman,highly negative
+0,4,woman,negative
+1,2,man,positive
+1,2,man,positive
+1,5,man,highly negative
+1,1,man,highly positive
+0,4,woman,negative
+1,4,man,negative
+0,2,woman,positive
+0,5,woman,highly negative
+0,2,woman,positive
+1,3,man,neutral
+0,5,woman,highly negative
+1,3,man,neutral
+0,2,woman,positive
+0,3,woman,neutral
+1,4,man,negative
+0,4,woman,negative
+1,5,man,highly negative
+1,4,man,negative
+1,5,man,highly negative
+1,2,man,positive
+0,3,woman,neutral
+1,4,man,negative
+0,4,woman,negative
+0,3,woman,neutral
+0,3,woman,neutral
+1,4,man,negative
+0,4,woman,negative
+0,4,woman,negative
+1,2,man,positive
+0,2,woman,positive
+0,1,woman,highly positive
+1,4,man,negative
+0,4,woman,negative
+1,2,man,positive
+1,3,man,neutral
+0,3,woman,neutral
+0,2,woman,positive
+1,3,man,neutral
+1,1,man,highly positive
+1,3,man,neutral
+0,3,woman,neutral
+1,2,man,positive
+0,3,woman,neutral
+1,4,man,negative
+1,5,man,highly negative
+0,4,woman,negative
+1,4,man,negative
+0,4,woman,negative
+0,2,woman,positive
+0,2,woman,positive
+1,3,man,neutral
+0,4,woman,negative
+0,5,woman,highly negative
+0,2,woman,positive
+1,2,man,positive
+1,4,man,negative
+1,5,man,highly negative
+0,4,woman,negative
+0,3,woman,neutral
+1,5,man,highly negative
+0,5,woman,highly negative
+1,2,man,positive
+0,2,woman,positive
+1,4,man,negative
+0,2,woman,positive
+0,5,woman,highly negative
+0,2,woman,positive
+0,4,woman,negative
+0,4,woman,negative
+1,1,man,highly positive
+0,1,woman,highly positive
+0,3,woman,neutral
+1,4,man,negative
+1,3,man,neutral
+1,2,man,positive
+0,3,woman,neutral
+0,5,woman,highly negative
+0,3,woman,neutral
+0,2,woman,positive
+0,5,woman,highly negative
+0,3,woman,neutral
+0,2,woman,positive
+0,2,woman,positive
+1,2,man,positive
+1,4,man,negative
+1,3,man,neutral
+1,2,man,positive
+0,4,woman,negative
+1,3,man,neutral
+1,2,man,positive
+1,4,man,negative
+0,1,woman,highly positive
+1,3,man,neutral
+1,2,man,positive
+0,4,woman,negative
+0,4,woman,negative
+0,3,woman,neutral
+1,3,man,neutral
+1,4,man,negative
+0,4,woman,negative
+1,1,man,highly positive
+1,4,man,negative
+0,3,woman,neutral
+0,2,woman,positive
+0,5,woman,highly negative
+0,4,woman,negative
+0,4,woman,negative
+0,2,woman,positive
+0,4,woman,negative
+0,4,woman,negative
+0,3,woman,neutral
+1,3,man,neutral
+1,1,man,highly positive
+1,5,man,highly negative
+0,5,woman,highly negative
+0,3,woman,neutral
+0,2,woman,positive
+1,2,man,positive
+1,2,man,positive
+0,3,woman,neutral
+0,3,woman,neutral
+0,4,woman,negative
+0,2,woman,positive
+0,4,woman,negative
+1,3,man,neutral
+0,4,woman,negative
+1,1,man,highly positive
+1,4,man,negative
+1,4,man,negative
+0,3,woman,neutral
+1,3,man,neutral
+0,3,woman,neutral
+0,2,woman,positive
+0,1,woman,highly positive
+0,4,woman,negative
+0,4,woman,negative
+0,3,woman,neutral
+1,2,man,positive
+0,2,woman,positive
+1,4,man,negative
+1,3,man,neutral
+1,2,man,positive
+1,1,man,highly positive
+1,3,man,neutral
+1,4,man,negative
+0,4,woman,negative
+0,2,woman,positive
+1,3,man,neutral
+1,2,man,positive
+1,3,man,neutral
+1,2,man,positive
+0,2,woman,positive
+0,2,woman,positive
+0,5,woman,highly negative
+1,2,man,positive
+0,4,woman,negative
+1,4,man,negative
+0,2,woman,positive
+0,2,woman,positive
+1,5,man,highly negative
+1,1,man,highly positive
+0,4,woman,negative
+1,4,man,negative
+0,3,woman,neutral
+0,3,woman,neutral
+0,2,woman,positive
+1,4,man,negative
+0,2,woman,positive
+0,2,woman,positive
+1,3,man,neutral
+1,1,man,highly positive
+0,5,woman,highly negative
+0,3,woman,neutral
+0,2,woman,positive
+0,3,woman,neutral
+0,5,woman,highly negative
+0,1,woman,highly positive
+0,1,woman,highly positive
+0,4,woman,negative
+1,3,man,neutral
+0,4,woman,negative
+1,4,man,negative
+0,3,woman,neutral
+0,2,woman,positive
+1,4,man,negative
+0,3,woman,neutral
+0,2,woman,positive
+1,2,man,positive
+0,3,woman,neutral
+1,2,man,positive
+0,3,woman,neutral
+1,3,man,neutral
+1,4,man,negative
+1,3,man,neutral
+1,5,man,highly negative
+1,3,man,neutral
+1,2,man,positive
+0,3,woman,neutral
+0,3,woman,neutral
+1,4,man,negative
+0,4,woman,negative
+0,4,woman,negative
+0,2,woman,positive
+0,4,woman,negative
+0,3,woman,neutral
+0,3,woman,neutral
+0,3,woman,neutral
+0,3,woman,neutral
+1,2,man,positive
+0,3,woman,neutral
+0,5,woman,highly negative
+0,2,woman,positive
+1,4,man,negative
+1,2,man,positive
+1,4,man,negative
+1,4,man,negative
+0,5,woman,highly negative
+0,2,woman,positive
+0,4,woman,negative
+0,2,woman,positive
+1,3,man,neutral
+0,2,woman,positive
+1,3,man,neutral
+0,2,woman,positive
+1,3,man,neutral
+1,4,man,negative
+0,1,woman,highly positive
+1,2,man,positive
+1,1,man,highly positive
+1,3,man,neutral
+0,4,woman,negative
+1,4,man,negative
+0,2,woman,positive
+0,4,woman,negative
+0,3,woman,neutral
+1,4,man,negative
+0,3,woman,neutral
+0,4,woman,negative
+0,2,woman,positive
+1,3,man,neutral
+0,4,woman,negative
+1,3,man,neutral
+0,5,woman,highly negative
+0,2,woman,positive
+0,4,woman,negative
+0,3,woman,neutral
+0,3,woman,neutral
+1,3,man,neutral
+1,2,man,positive
+0,4,woman,negative
+1,4,man,negative
+0,5,woman,highly negative
+1,1,man,highly positive
+0,1,woman,highly positive
+1,4,man,negative
+0,3,woman,neutral
+1,3,man,neutral
+0,4,woman,negative
+0,2,woman,positive
+1,3,man,neutral
+0,5,woman,highly negative
+0,1,woman,highly positive
+0,3,woman,neutral
+1,2,man,positive
+0,5,woman,highly negative
+1,3,man,neutral
+1,3,man,neutral
+0,3,woman,neutral
+0,3,woman,neutral
+1,4,man,negative
+0,1,woman,highly positive
+1,4,man,negative
+1,4,man,negative
+0,4,woman,negative
+0,4,woman,negative
+0,5,woman,highly negative
+0,3,woman,neutral
+0,4,woman,negative
+1,1,man,highly positive
+0,3,woman,neutral
+0,5,woman,highly negative
+1,3,man,neutral
+0,2,woman,positive
+1,5,man,highly negative
+0,3,woman,neutral
+1,4,man,negative
+0,5,woman,highly negative
+0,2,woman,positive
+1,2,man,positive
+0,2,woman,positive
+0,4,woman,negative
+1,3,man,neutral
+0,4,woman,negative
+0,4,woman,negative
+0,4,woman,negative
+0,2,woman,positive
+0,3,woman,neutral
+1,4,man,negative
+0,4,woman,negative
+1,2,man,positive
+1,2,man,positive
+0,4,woman,negative
+1,2,man,positive
+1,2,man,positive
+0,5,woman,highly negative
+0,2,woman,positive
+0,3,woman,neutral
+1,3,man,neutral
+1,3,man,neutral
+0,3,woman,neutral
+0,5,woman,highly negative
+0,3,woman,neutral
+1,4,man,negative
+1,3,man,neutral
+0,3,woman,neutral
+1,3,man,neutral
+0,3,woman,neutral
+0,2,woman,positive
+0,2,woman,positive
+1,4,man,negative
+1,4,man,negative
+1,4,man,negative
+0,1,woman,highly positive
+1,2,man,positive
+0,5,woman,highly negative
+1,3,man,neutral
+0,5,woman,highly negative
+1,3,man,neutral
+1,4,man,negative
+1,4,man,negative
+1,2,man,positive
+1,3,man,neutral
+0,3,woman,neutral
+0,4,woman,negative
+0,2,woman,positive
+1,3,man,neutral
+0,2,woman,positive
+0,3,woman,neutral
+1,2,man,positive
+1,3,man,neutral
+1,3,man,neutral
+1,5,man,highly negative
+1,4,man,negative
+0,4,woman,negative
+1,2,man,positive
+1,1,man,highly positive
+0,4,woman,negative
+0,2,woman,positive
+1,4,man,negative
+1,2,man,positive
+1,3,man,neutral
+0,1,woman,highly positive
+1,2,man,positive
+0,2,woman,positive
+0,3,woman,neutral
+0,5,woman,highly negative
+0,3,woman,neutral
+0,1,woman,highly positive
+1,3,man,neutral
+0,4,woman,negative
+0,4,woman,negative
+1,2,man,positive
+0,3,woman,neutral
+0,4,woman,negative
+1,2,man,positive
+1,2,man,positive
+1,3,man,neutral
+1,2,man,positive
+1,4,man,negative
+0,5,woman,highly negative
+1,3,man,neutral
+0,3,woman,neutral
+0,2,woman,positive
+1,3,man,neutral
+0,2,woman,positive
+1,4,man,negative
+0,5,woman,highly negative
+0,4,woman,negative
+1,4,man,negative
+0,3,woman,neutral
+1,3,man,neutral
+0,2,woman,positive
+0,3,woman,neutral
+0,4,woman,negative
+1,3,man,neutral
+1,3,man,neutral
+0,4,woman,negative
+0,3,woman,neutral
+0,3,woman,neutral
+0,1,woman,highly positive
+0,1,woman,highly positive
+1,3,man,neutral
+1,2,man,positive
+1,2,man,positive
+0,2,woman,positive
+0,2,woman,positive
+0,3,woman,neutral
+1,3,man,neutral
+0,3,woman,neutral
+1,4,man,negative
+1,4,man,negative
+0,3,woman,neutral
+1,5,man,highly negative
+1,1,man,highly positive
+0,2,woman,positive
+0,5,woman,highly negative
+0,3,woman,neutral
+0,4,woman,negative
+0,3,woman,neutral
+1,3,man,neutral
+1,5,man,highly negative
+0,3,woman,neutral
+1,4,man,negative
+1,2,man,positive
+1,2,man,positive
+0,2,woman,positive
+1,3,man,neutral
+1,3,man,neutral
+0,3,woman,neutral
+0,4,woman,negative
+0,3,woman,neutral
+0,4,woman,negative
+0,4,woman,negative
+1,3,man,neutral
+1,1,man,highly positive
+0,4,woman,negative
+1,2,man,positive
+0,4,woman,negative
+0,1,woman,highly positive
+0,4,woman,negative
+0,3,woman,neutral
+1,3,man,neutral
+1,2,man,positive
+0,3,woman,neutral
+0,2,woman,positive
+1,4,man,negative
+1,4,man,negative
+1,4,man,negative
+1,5,man,highly negative
+0,2,woman,positive
+0,4,woman,negative
+0,1,woman,highly positive
+1,2,man,positive
+1,2,man,positive
+0,4,woman,negative
+1,4,man,negative
+0,4,woman,negative
+1,2,man,positive
+0,4,woman,negative
+1,2,man,positive
+1,5,man,highly negative
+0,4,woman,negative
+0,4,woman,negative
+0,5,woman,highly negative
+1,1,man,highly positive
+1,3,man,neutral
+0,3,woman,neutral
+0,5,woman,highly negative
+0,3,woman,neutral
+0,1,woman,highly positive
+0,4,woman,negative
+0,4,woman,negative
+0,5,woman,highly negative
+1,1,man,highly positive
+1,4,man,negative
+1,3,man,neutral
+0,4,woman,negative
+1,2,man,positive
+1,4,man,negative
+1,3,man,neutral
+1,2,man,positive
+1,2,man,positive
+1,3,man,neutral
+1,3,man,neutral
+0,3,woman,neutral
+1,2,man,positive
+1,4,man,negative
+0,4,woman,negative
+1,3,man,neutral
+0,4,woman,negative
+0,3,woman,neutral
+1,4,man,negative
+0,4,woman,negative
+0,3,woman,neutral
+0,3,woman,neutral
+1,4,man,negative
+1,4,man,negative
+0,2,woman,positive
+0,4,woman,negative
+1,2,man,positive
+0,4,woman,negative
+1,2,man,positive
+0,3,woman,neutral
+0,3,woman,neutral
+0,5,woman,highly negative
+0,3,woman,neutral
+1,2,man,positive
+1,1,man,highly positive
+0,3,woman,neutral
+0,2,woman,positive
+0,2,woman,positive
+0,4,woman,negative
+0,4,woman,negative
+0,4,woman,negative
+1,2,man,positive
+0,1,woman,highly positive
+1,4,man,negative
+1,5,man,highly negative
+1,2,man,positive
+0,2,woman,positive
+1,1,man,highly positive
+1,5,man,highly negative
+0,4,woman,negative
+1,3,man,neutral
+1,3,man,neutral
+0,5,woman,highly negative
+0,3,woman,neutral
+1,2,man,positive
+1,5,man,highly negative
+1,4,man,negative
+1,4,man,negative
+0,4,woman,negative
+0,3,woman,neutral
+1,4,man,negative
+0,4,woman,negative
+0,5,woman,highly negative
+0,2,woman,positive
+1,4,man,negative
+0,4,woman,negative
+0,4,woman,negative
+1,4,man,negative
+0,5,woman,highly negative
+0,2,woman,positive
+1,4,man,negative
+1,2,man,positive
+1,4,man,negative
+1,4,man,negative
+0,4,woman,negative
+0,3,woman,neutral
+0,5,woman,highly negative
+0,3,woman,neutral
+0,3,woman,neutral
+1,2,man,positive
+1,4,man,negative
+1,2,man,positive
+1,3,man,neutral
+0,4,woman,negative
+1,4,man,negative
+1,2,man,positive
+0,4,woman,negative
+0,4,woman,negative
+0,4,woman,negative
+0,4,woman,negative
+0,3,woman,neutral
+0,3,woman,neutral
+0,5,woman,highly negative
+0,5,woman,highly negative
+1,3,man,neutral
+0,5,woman,highly negative
+0,4,woman,negative
+1,4,man,negative
+0,4,woman,negative
+1,2,man,positive
+1,3,man,neutral
+0,2,woman,positive
+1,4,man,negative
+0,4,woman,negative
+1,1,man,highly positive
+1,3,man,neutral
+1,3,man,neutral
+0,2,woman,positive
+0,3,woman,neutral
+0,3,woman,neutral
+1,4,man,negative
+0,4,woman,negative
+1,2,man,positive
+0,2,woman,positive
+0,2,woman,positive
+1,2,man,positive
+1,2,man,positive
+0,3,woman,neutral
+0,3,woman,neutral
+1,5,man,highly negative
+0,5,woman,highly negative
+0,4,woman,negative
+1,2,man,positive
+0,1,woman,highly positive
+0,3,woman,neutral
+1,4,man,negative
+1,4,man,negative
+1,5,man,highly negative
+1,2,man,positive
+1,3,man,neutral
+1,5,man,highly negative
+0,5,woman,highly negative
+1,4,man,negative
+0,5,woman,highly negative
+1,2,man,positive
+1,3,man,neutral
+1,5,man,highly negative
+0,1,woman,highly positive
+1,2,man,positive
+0,4,woman,negative
+1,4,man,negative
+0,4,woman,negative
+1,3,man,neutral
+0,5,woman,highly negative
+0,4,woman,negative
+1,2,man,positive
+1,1,man,highly positive
+1,2,man,positive
+0,5,woman,highly negative
+1,5,man,highly negative
+1,2,man,positive
+0,2,woman,positive
+1,3,man,neutral
+0,4,woman,negative
+0,5,woman,highly negative
+0,1,woman,highly positive
+0,4,woman,negative
+0,3,woman,neutral
+0,4,woman,negative
+0,4,woman,negative
+0,4,woman,negative
+1,1,man,highly positive
+0,2,woman,positive
+1,3,man,neutral
+0,5,woman,highly negative
+1,1,man,highly positive
+1,3,man,neutral
+1,5,man,highly negative
+1,3,man,neutral
+0,2,woman,positive
+1,3,man,neutral
+0,2,woman,positive
+0,2,woman,positive
+0,2,woman,positive
+0,3,woman,neutral
+0,4,woman,negative
+1,5,man,highly negative
+1,1,man,highly positive
+1,2,man,positive
+0,3,woman,neutral
+0,4,woman,negative
+1,3,man,neutral
+0,3,woman,neutral
+1,4,man,negative
+0,4,woman,negative
+0,5,woman,highly negative
+1,2,man,positive
+1,3,man,neutral
+1,4,man,negative
+0,2,woman,positive
+1,3,man,neutral
+0,3,woman,neutral
+0,3,woman,neutral
+0,4,woman,negative
+1,4,man,negative
+1,5,man,highly negative
+1,4,man,negative
+0,4,woman,negative
+1,2,man,positive
+1,3,man,neutral
+0,4,woman,negative
+0,2,woman,positive
+0,4,woman,negative
+0,2,woman,positive
+0,4,woman,negative
+0,4,woman,negative
+0,2,woman,positive
+1,3,man,neutral
+1,2,man,positive
+0,4,woman,negative
+0,4,woman,negative
+0,4,woman,negative
+0,4,woman,negative
+0,5,woman,highly negative
+0,2,woman,positive
+1,2,man,positive
+0,4,woman,negative
+0,2,woman,positive
+0,2,woman,positive
+1,4,man,negative
+0,1,woman,highly positive
+1,2,man,positive
+0,3,woman,neutral
+1,3,man,neutral
+0,5,woman,highly negative
+1,4,man,negative
+0,3,woman,neutral
+1,5,man,highly negative
+1,4,man,negative
+0,2,woman,positive
+1,2,man,positive
+1,1,man,highly positive
+1,2,man,positive
+0,4,woman,negative
+1,4,man,negative
+0,4,woman,negative
+1,3,man,neutral
+1,4,man,negative
+0,4,woman,negative
+0,4,woman,negative
+1,2,man,positive
+0,4,woman,negative
+0,4,woman,negative
+0,3,woman,neutral
+0,4,woman,negative
+1,2,man,positive
+0,5,woman,highly negative
+0,1,woman,highly positive
+0,2,woman,positive
+0,3,woman,neutral
+0,4,woman,negative
+0,4,woman,negative
+0,5,woman,highly negative
+1,3,man,neutral
+1,4,man,negative
+1,3,man,neutral
+0,4,woman,negative
+1,2,man,positive
+1,3,man,neutral
+1,3,man,neutral
+1,4,man,negative
+0,3,woman,neutral
+1,3,man,neutral
+0,5,woman,highly negative
+1,5,man,highly negative
+1,2,man,positive
+0,3,woman,neutral
+1,4,man,negative
+1,2,man,positive
+0,1,woman,highly positive
+1,2,man,positive
+0,4,woman,negative
+1,3,man,neutral
+1,1,man,highly positive
+0,4,woman,negative
+1,5,man,highly negative
+0,1,woman,highly positive
+1,5,man,highly negative
+1,4,man,negative
+1,3,man,neutral
+1,1,man,highly positive
+1,2,man,positive
+1,2,man,positive
+0,4,woman,negative
+0,3,woman,neutral
+1,3,man,neutral
+0,5,woman,highly negative
+1,4,man,negative
+0,4,woman,negative
+1,3,man,neutral
+0,2,woman,positive
+1,2,man,positive
+1,2,man,positive
+1,5,man,highly negative
+0,3,woman,neutral
+1,3,man,neutral
+1,3,man,neutral
+0,2,woman,positive
+0,3,woman,neutral
+0,3,woman,neutral
+0,4,woman,negative
+1,1,man,highly positive
+1,2,man,positive
+0,4,woman,negative
+1,1,man,highly positive
+1,4,man,negative
+1,3,man,neutral
+1,4,man,negative
+0,4,woman,negative
+0,5,woman,highly negative
+0,3,woman,neutral
+1,2,man,positive
+0,2,woman,positive
+0,5,woman,highly negative
+1,4,man,negative
+1,2,man,positive
+1,2,man,positive
+1,4,man,negative
+0,4,woman,negative
+0,4,woman,negative
+1,2,man,positive
+0,2,woman,positive
+0,1,woman,highly positive
+0,2,woman,positive
+1,1,man,highly positive
+1,3,man,neutral
+0,4,woman,negative
+0,4,woman,negative
+0,3,woman,neutral
+0,2,woman,positive
+1,3,man,neutral
+1,2,man,positive
+0,4,woman,negative
+0,1,woman,highly positive
