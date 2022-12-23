@@ -1,0 +1,1 @@
+"0","map_df(data_stud, ~var(., na.rm=TRUE))"

@@ -1,0 +1,11 @@
+---
+title: "Baláž Statistika"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+```
+
+
+

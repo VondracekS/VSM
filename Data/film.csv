@@ -1,1323 +1,1323 @@
-Man,Movie,fMan,fMovie
-0,5,woman,highly negative
-0,5,woman,highly negative
-1,2,man,positive
-0,2,woman,positive
-0,4,woman,negative
-1,4,man,negative
-0,4,woman,negative
-0,4,woman,negative
-0,3,woman,neutral
-0,4,woman,negative
-0,1,woman,highly positive
-1,4,man,negative
-0,5,woman,highly negative
-0,5,woman,highly negative
-1,5,man,highly negative
-1,2,man,positive
-0,3,woman,neutral
-1,2,man,positive
-1,2,man,positive
-1,2,man,positive
-0,5,woman,highly negative
-0,2,woman,positive
-1,4,man,negative
-1,4,man,negative
-1,2,man,positive
-0,4,woman,negative
-1,3,man,neutral
-1,4,man,negative
-1,2,man,positive
-0,3,woman,neutral
-0,4,woman,negative
-0,4,woman,negative
-0,4,woman,negative
-0,2,woman,positive
-1,5,man,highly negative
-0,3,woman,neutral
-0,2,woman,positive
-0,2,woman,positive
-1,3,man,neutral
-0,1,woman,highly positive
-1,2,man,positive
-1,3,man,neutral
-0,2,woman,positive
-0,3,woman,neutral
-0,1,woman,highly positive
-1,4,man,negative
-0,4,woman,negative
-0,4,woman,negative
-1,3,man,neutral
-0,4,woman,negative
-1,2,man,positive
-0,3,woman,neutral
-1,2,man,positive
-0,2,woman,positive
-0,3,woman,neutral
-0,4,woman,negative
-0,5,woman,highly negative
-0,2,woman,positive
-0,2,woman,positive
-0,4,woman,negative
-0,2,woman,positive
-1,2,man,positive
-0,3,woman,neutral
-0,4,woman,negative
-1,2,man,positive
-0,2,woman,positive
-0,1,woman,highly positive
-0,2,woman,positive
-1,5,man,highly negative
-0,2,woman,positive
-0,1,woman,highly positive
-1,5,man,highly negative
-0,4,woman,negative
-1,3,man,neutral
-1,3,man,neutral
-0,3,woman,neutral
-0,1,woman,highly positive
-0,4,woman,negative
-0,3,woman,neutral
-1,4,man,negative
-1,4,man,negative
-1,4,man,negative
-0,3,woman,neutral
-0,4,woman,negative
-0,3,woman,neutral
-0,3,woman,neutral
-0,1,woman,highly positive
-0,3,woman,neutral
-0,4,woman,negative
-1,2,man,positive
-1,4,man,negative
-0,3,woman,neutral
-0,3,woman,neutral
-0,4,woman,negative
-0,5,woman,highly negative
-0,4,woman,negative
-0,1,woman,highly positive
-1,5,man,highly negative
-0,3,woman,neutral
-0,2,woman,positive
-0,4,woman,negative
-0,3,woman,neutral
-1,2,man,positive
-0,4,woman,negative
-0,4,woman,negative
-1,2,man,positive
-0,2,woman,positive
-0,4,woman,negative
-0,4,woman,negative
-1,2,man,positive
-1,3,man,neutral
-1,5,man,highly negative
-0,3,woman,neutral
-1,4,man,negative
-0,5,woman,highly negative
-0,5,woman,highly negative
-0,5,woman,highly negative
-0,2,woman,positive
-0,4,woman,negative
-0,4,woman,negative
-1,3,man,neutral
-0,4,woman,negative
-1,3,man,neutral
-0,5,woman,highly negative
-1,3,man,neutral
-0,3,woman,neutral
-0,1,woman,highly positive
-0,1,woman,highly positive
-0,4,woman,negative
-0,2,woman,positive
-1,4,man,negative
-0,5,woman,highly negative
-1,3,man,neutral
-0,4,woman,negative
-1,2,man,positive
-1,4,man,negative
-1,4,man,negative
-0,4,woman,negative
-0,3,woman,neutral
-0,3,woman,neutral
-0,3,woman,neutral
-1,2,man,positive
-0,3,woman,neutral
-0,3,woman,neutral
-0,5,woman,highly negative
-1,5,man,highly negative
-1,2,man,positive
-1,2,man,positive
-1,2,man,positive
-0,1,woman,highly positive
-1,5,man,highly negative
-0,4,woman,negative
-0,3,woman,neutral
-1,2,man,positive
-1,2,man,positive
-1,2,man,positive
-1,3,man,neutral
-1,3,man,neutral
-0,3,woman,neutral
-1,4,man,negative
-0,5,woman,highly negative
-1,4,man,negative
-0,5,woman,highly negative
-1,4,man,negative
-0,4,woman,negative
-0,2,woman,positive
-1,2,man,positive
-0,3,woman,neutral
-0,4,woman,negative
-0,2,woman,positive
-1,2,man,positive
-0,2,woman,positive
-0,4,woman,negative
-0,3,woman,neutral
-1,5,man,highly negative
-1,3,man,neutral
-1,2,man,positive
-0,5,woman,highly negative
-0,2,woman,positive
-1,3,man,neutral
-1,3,man,neutral
-0,4,woman,negative
-1,4,man,negative
-1,1,man,highly positive
-1,3,man,neutral
-1,4,man,negative
-0,4,woman,negative
-1,4,man,negative
-0,3,woman,neutral
-1,3,man,neutral
-0,4,woman,negative
-1,1,man,highly positive
-1,4,man,negative
-1,3,man,neutral
-1,2,man,positive
-0,4,woman,negative
-0,2,woman,positive
-0,4,woman,negative
-0,3,woman,neutral
-0,4,woman,negative
-0,4,woman,negative
-0,3,woman,neutral
-0,3,woman,neutral
-1,2,man,positive
-0,1,woman,highly positive
-0,2,woman,positive
-1,2,man,positive
-0,4,woman,negative
-1,2,man,positive
-1,4,man,negative
-0,4,woman,negative
-1,3,man,neutral
-0,4,woman,negative
-1,3,man,neutral
-0,3,woman,neutral
-1,1,man,highly positive
-0,4,woman,negative
-0,2,woman,positive
-0,4,woman,negative
-1,2,man,positive
-1,2,man,positive
-1,2,man,positive
-1,4,man,negative
-1,3,man,neutral
-0,5,woman,highly negative
-0,5,woman,highly negative
-1,3,man,neutral
-0,3,woman,neutral
-1,3,man,neutral
-0,3,woman,neutral
-1,3,man,neutral
-1,4,man,negative
-0,2,woman,positive
-1,4,man,negative
-1,3,man,neutral
-1,4,man,negative
-0,4,woman,negative
-0,5,woman,highly negative
-0,3,woman,neutral
-0,1,woman,highly positive
-0,2,woman,positive
-1,4,man,negative
-0,3,woman,neutral
-0,2,woman,positive
-1,3,man,neutral
-0,5,woman,highly negative
-1,3,man,neutral
-0,3,woman,neutral
-0,4,woman,negative
-1,2,man,positive
-1,4,man,negative
-0,4,woman,negative
-0,5,woman,highly negative
-0,2,woman,positive
-0,4,woman,negative
-0,2,woman,positive
-0,4,woman,negative
-1,3,man,neutral
-0,3,woman,neutral
-0,4,woman,negative
-0,3,woman,neutral
-0,1,woman,highly positive
-1,4,man,negative
-0,4,woman,negative
-0,3,woman,neutral
-0,5,woman,highly negative
-1,5,man,highly negative
-1,1,man,highly positive
-1,4,man,negative
-0,1,woman,highly positive
-1,4,man,negative
-1,3,man,neutral
-0,3,woman,neutral
-1,3,man,neutral
-0,2,woman,positive
-1,3,man,neutral
-1,4,man,negative
-0,5,woman,highly negative
-1,3,man,neutral
-0,4,woman,negative
-1,4,man,negative
-0,3,woman,neutral
-1,4,man,negative
-0,2,woman,positive
-1,4,man,negative
-0,3,woman,neutral
-1,2,man,positive
-0,2,woman,positive
-0,3,woman,neutral
-1,3,man,neutral
-1,1,man,highly positive
-0,4,woman,negative
-1,2,man,positive
-1,4,man,negative
-1,2,man,positive
-1,4,man,negative
-1,5,man,highly negative
-1,3,man,neutral
-1,3,man,neutral
-1,3,man,neutral
-0,4,woman,negative
-0,3,woman,neutral
-0,4,woman,negative
-0,4,woman,negative
-1,2,man,positive
-0,4,woman,negative
-1,1,man,highly positive
-1,3,man,neutral
-1,2,man,positive
-1,3,man,neutral
-1,4,man,negative
-0,1,woman,highly positive
-0,4,woman,negative
-0,4,woman,negative
-0,4,woman,negative
-0,2,woman,positive
-0,2,woman,positive
-0,1,woman,highly positive
-0,4,woman,negative
-1,4,man,negative
-0,3,woman,neutral
-0,4,woman,negative
-1,1,man,highly positive
-1,2,man,positive
-0,5,woman,highly negative
-0,3,woman,neutral
-1,4,man,negative
-0,2,woman,positive
-0,4,woman,negative
-1,2,man,positive
-0,5,woman,highly negative
-0,3,woman,neutral
-0,2,woman,positive
-0,4,woman,negative
-1,3,man,neutral
-1,3,man,neutral
-1,3,man,neutral
-0,4,woman,negative
-0,2,woman,positive
-0,5,woman,highly negative
-0,4,woman,negative
-0,4,woman,negative
-0,3,woman,neutral
-1,5,man,highly negative
-1,4,man,negative
-0,5,woman,highly negative
-0,4,woman,negative
-1,2,man,positive
-1,2,man,positive
-0,4,woman,negative
-1,4,man,negative
-1,5,man,highly negative
-0,5,woman,highly negative
-1,4,man,negative
-0,5,woman,highly negative
-0,2,woman,positive
-1,3,man,neutral
-1,3,man,neutral
-1,2,man,positive
-1,3,man,neutral
-0,2,woman,positive
-1,2,man,positive
-0,4,woman,negative
-1,3,man,neutral
-1,2,man,positive
-0,3,woman,neutral
-0,5,woman,highly negative
-0,5,woman,highly negative
-1,3,man,neutral
-0,2,woman,positive
-0,2,woman,positive
-1,4,man,negative
-0,3,woman,neutral
-1,4,man,negative
-1,5,man,highly negative
-0,3,woman,neutral
-0,3,woman,neutral
-0,2,woman,positive
-0,4,woman,negative
-0,5,woman,highly negative
-0,4,woman,negative
-0,2,woman,positive
-0,4,woman,negative
-0,3,woman,neutral
-0,3,woman,neutral
-1,5,man,highly negative
-0,2,woman,positive
-0,3,woman,neutral
-1,4,man,negative
-0,4,woman,negative
-0,1,woman,highly positive
-0,3,woman,neutral
-0,2,woman,positive
-1,4,man,negative
-1,4,man,negative
-1,2,man,positive
-1,3,man,neutral
-1,1,man,highly positive
-1,3,man,neutral
-0,4,woman,negative
-0,4,woman,negative
-0,4,woman,negative
-0,3,woman,neutral
-1,1,man,highly positive
-1,4,man,negative
-0,4,woman,negative
-0,2,woman,positive
-0,3,woman,neutral
-0,3,woman,neutral
-1,3,man,neutral
-0,1,woman,highly positive
-1,4,man,negative
-0,2,woman,positive
-0,3,woman,neutral
-0,2,woman,positive
-1,4,man,negative
-1,2,man,positive
-1,4,man,negative
-0,3,woman,neutral
-1,5,man,highly negative
-1,2,man,positive
-0,5,woman,highly negative
-1,5,man,highly negative
-1,2,man,positive
-0,4,woman,negative
-0,4,woman,negative
-1,2,man,positive
-1,4,man,negative
-0,2,woman,positive
-1,2,man,positive
-1,3,man,neutral
-1,4,man,negative
-0,2,woman,positive
-0,1,woman,highly positive
-0,4,woman,negative
-0,2,woman,positive
-0,3,woman,neutral
-0,2,woman,positive
-1,4,man,negative
-0,4,woman,negative
-1,2,man,positive
-0,4,woman,negative
-0,5,woman,highly negative
-0,3,woman,neutral
-1,3,man,neutral
-0,4,woman,negative
-0,1,woman,highly positive
-1,4,man,negative
-0,4,woman,negative
-0,4,woman,negative
-1,3,man,neutral
-1,1,man,highly positive
-1,4,man,negative
-0,4,woman,negative
-0,5,woman,highly negative
-1,1,man,highly positive
-0,2,woman,positive
-1,2,man,positive
-0,4,woman,negative
-1,3,man,neutral
-0,2,woman,positive
-0,2,woman,positive
-1,4,man,negative
-0,4,woman,negative
-1,2,man,positive
-0,4,woman,negative
-1,2,man,positive
-0,4,woman,negative
-1,4,man,negative
-1,3,man,neutral
-1,2,man,positive
-1,5,man,highly negative
-0,4,woman,negative
-0,2,woman,positive
-1,4,man,negative
-0,3,woman,neutral
-1,3,man,neutral
-1,3,man,neutral
-0,4,woman,negative
-1,2,man,positive
-1,3,man,neutral
-0,4,woman,negative
-0,4,woman,negative
-0,3,woman,neutral
-1,3,man,neutral
-0,4,woman,negative
-0,4,woman,negative
-1,4,man,negative
-1,4,man,negative
-1,2,man,positive
-0,4,woman,negative
-1,2,man,positive
-0,4,woman,negative
-1,2,man,positive
-0,4,woman,negative
-1,2,man,positive
-0,4,woman,negative
-0,4,woman,negative
-1,3,man,neutral
-0,4,woman,negative
-1,4,man,negative
-0,3,woman,neutral
-0,3,woman,neutral
-0,1,woman,highly positive
-1,4,man,negative
-0,3,woman,neutral
-0,1,woman,highly positive
-0,3,woman,neutral
-0,3,woman,neutral
-1,2,man,positive
-1,4,man,negative
-0,3,woman,neutral
-0,2,woman,positive
-0,2,woman,positive
-0,3,woman,neutral
-0,4,woman,negative
-1,1,man,highly positive
-0,3,woman,neutral
-1,2,man,positive
-0,3,woman,neutral
-0,5,woman,highly negative
-1,3,man,neutral
-1,4,man,negative
-0,5,woman,highly negative
-0,4,woman,negative
-1,2,man,positive
-1,2,man,positive
-1,5,man,highly negative
-1,1,man,highly positive
-0,4,woman,negative
-1,4,man,negative
-0,2,woman,positive
-0,5,woman,highly negative
-0,2,woman,positive
-1,3,man,neutral
-0,5,woman,highly negative
-1,3,man,neutral
-0,2,woman,positive
-0,3,woman,neutral
-1,4,man,negative
-0,4,woman,negative
-1,5,man,highly negative
-1,4,man,negative
-1,5,man,highly negative
-1,2,man,positive
-0,3,woman,neutral
-1,4,man,negative
-0,4,woman,negative
-0,3,woman,neutral
-0,3,woman,neutral
-1,4,man,negative
-0,4,woman,negative
-0,4,woman,negative
-1,2,man,positive
-0,2,woman,positive
-0,1,woman,highly positive
-1,4,man,negative
-0,4,woman,negative
-1,2,man,positive
-1,3,man,neutral
-0,3,woman,neutral
-0,2,woman,positive
-1,3,man,neutral
-1,1,man,highly positive
-1,3,man,neutral
-0,3,woman,neutral
-1,2,man,positive
-0,3,woman,neutral
-1,4,man,negative
-1,5,man,highly negative
-0,4,woman,negative
-1,4,man,negative
-0,4,woman,negative
-0,2,woman,positive
-0,2,woman,positive
-1,3,man,neutral
-0,4,woman,negative
-0,5,woman,highly negative
-0,2,woman,positive
-1,2,man,positive
-1,4,man,negative
-1,5,man,highly negative
-0,4,woman,negative
-0,3,woman,neutral
-1,5,man,highly negative
-0,5,woman,highly negative
-1,2,man,positive
-0,2,woman,positive
-1,4,man,negative
-0,2,woman,positive
-0,5,woman,highly negative
-0,2,woman,positive
-0,4,woman,negative
-0,4,woman,negative
-1,1,man,highly positive
-0,1,woman,highly positive
-0,3,woman,neutral
-1,4,man,negative
-1,3,man,neutral
-1,2,man,positive
-0,3,woman,neutral
-0,5,woman,highly negative
-0,3,woman,neutral
-0,2,woman,positive
-0,5,woman,highly negative
-0,3,woman,neutral
-0,2,woman,positive
-0,2,woman,positive
-1,2,man,positive
-1,4,man,negative
-1,3,man,neutral
-1,2,man,positive
-0,4,woman,negative
-1,3,man,neutral
-1,2,man,positive
-1,4,man,negative
-0,1,woman,highly positive
-1,3,man,neutral
-1,2,man,positive
-0,4,woman,negative
-0,4,woman,negative
-0,3,woman,neutral
-1,3,man,neutral
-1,4,man,negative
-0,4,woman,negative
-1,1,man,highly positive
-1,4,man,negative
-0,3,woman,neutral
-0,2,woman,positive
-0,5,woman,highly negative
-0,4,woman,negative
-0,4,woman,negative
-0,2,woman,positive
-0,4,woman,negative
-0,4,woman,negative
-0,3,woman,neutral
-1,3,man,neutral
-1,1,man,highly positive
-1,5,man,highly negative
-0,5,woman,highly negative
-0,3,woman,neutral
-0,2,woman,positive
-1,2,man,positive
-1,2,man,positive
-0,3,woman,neutral
-0,3,woman,neutral
-0,4,woman,negative
-0,2,woman,positive
-0,4,woman,negative
-1,3,man,neutral
-0,4,woman,negative
-1,1,man,highly positive
-1,4,man,negative
-1,4,man,negative
-0,3,woman,neutral
-1,3,man,neutral
-0,3,woman,neutral
-0,2,woman,positive
-0,1,woman,highly positive
-0,4,woman,negative
-0,4,woman,negative
-0,3,woman,neutral
-1,2,man,positive
-0,2,woman,positive
-1,4,man,negative
-1,3,man,neutral
-1,2,man,positive
-1,1,man,highly positive
-1,3,man,neutral
-1,4,man,negative
-0,4,woman,negative
-0,2,woman,positive
-1,3,man,neutral
-1,2,man,positive
-1,3,man,neutral
-1,2,man,positive
-0,2,woman,positive
-0,2,woman,positive
-0,5,woman,highly negative
-1,2,man,positive
-0,4,woman,negative
-1,4,man,negative
-0,2,woman,positive
-0,2,woman,positive
-1,5,man,highly negative
-1,1,man,highly positive
-0,4,woman,negative
-1,4,man,negative
-0,3,woman,neutral
-0,3,woman,neutral
-0,2,woman,positive
-1,4,man,negative
-0,2,woman,positive
-0,2,woman,positive
-1,3,man,neutral
-1,1,man,highly positive
-0,5,woman,highly negative
-0,3,woman,neutral
-0,2,woman,positive
-0,3,woman,neutral
-0,5,woman,highly negative
-0,1,woman,highly positive
-0,1,woman,highly positive
-0,4,woman,negative
-1,3,man,neutral
-0,4,woman,negative
-1,4,man,negative
-0,3,woman,neutral
-0,2,woman,positive
-1,4,man,negative
-0,3,woman,neutral
-0,2,woman,positive
-1,2,man,positive
-0,3,woman,neutral
-1,2,man,positive
-0,3,woman,neutral
-1,3,man,neutral
-1,4,man,negative
-1,3,man,neutral
-1,5,man,highly negative
-1,3,man,neutral
-1,2,man,positive
-0,3,woman,neutral
-0,3,woman,neutral
-1,4,man,negative
-0,4,woman,negative
-0,4,woman,negative
-0,2,woman,positive
-0,4,woman,negative
-0,3,woman,neutral
-0,3,woman,neutral
-0,3,woman,neutral
-0,3,woman,neutral
-1,2,man,positive
-0,3,woman,neutral
-0,5,woman,highly negative
-0,2,woman,positive
-1,4,man,negative
-1,2,man,positive
-1,4,man,negative
-1,4,man,negative
-0,5,woman,highly negative
-0,2,woman,positive
-0,4,woman,negative
-0,2,woman,positive
-1,3,man,neutral
-0,2,woman,positive
-1,3,man,neutral
-0,2,woman,positive
-1,3,man,neutral
-1,4,man,negative
-0,1,woman,highly positive
-1,2,man,positive
-1,1,man,highly positive
-1,3,man,neutral
-0,4,woman,negative
-1,4,man,negative
-0,2,woman,positive
-0,4,woman,negative
-0,3,woman,neutral
-1,4,man,negative
-0,3,woman,neutral
-0,4,woman,negative
-0,2,woman,positive
-1,3,man,neutral
-0,4,woman,negative
-1,3,man,neutral
-0,5,woman,highly negative
-0,2,woman,positive
-0,4,woman,negative
-0,3,woman,neutral
-0,3,woman,neutral
-1,3,man,neutral
-1,2,man,positive
-0,4,woman,negative
-1,4,man,negative
-0,5,woman,highly negative
-1,1,man,highly positive
-0,1,woman,highly positive
-1,4,man,negative
-0,3,woman,neutral
-1,3,man,neutral
-0,4,woman,negative
-0,2,woman,positive
-1,3,man,neutral
-0,5,woman,highly negative
-0,1,woman,highly positive
-0,3,woman,neutral
-1,2,man,positive
-0,5,woman,highly negative
-1,3,man,neutral
-1,3,man,neutral
-0,3,woman,neutral
-0,3,woman,neutral
-1,4,man,negative
-0,1,woman,highly positive
-1,4,man,negative
-1,4,man,negative
-0,4,woman,negative
-0,4,woman,negative
-0,5,woman,highly negative
-0,3,woman,neutral
-0,4,woman,negative
-1,1,man,highly positive
-0,3,woman,neutral
-0,5,woman,highly negative
-1,3,man,neutral
-0,2,woman,positive
-1,5,man,highly negative
-0,3,woman,neutral
-1,4,man,negative
-0,5,woman,highly negative
-0,2,woman,positive
-1,2,man,positive
-0,2,woman,positive
-0,4,woman,negative
-1,3,man,neutral
-0,4,woman,negative
-0,4,woman,negative
-0,4,woman,negative
-0,2,woman,positive
-0,3,woman,neutral
-1,4,man,negative
-0,4,woman,negative
-1,2,man,positive
-1,2,man,positive
-0,4,woman,negative
-1,2,man,positive
-1,2,man,positive
-0,5,woman,highly negative
-0,2,woman,positive
-0,3,woman,neutral
-1,3,man,neutral
-1,3,man,neutral
-0,3,woman,neutral
-0,5,woman,highly negative
-0,3,woman,neutral
-1,4,man,negative
-1,3,man,neutral
-0,3,woman,neutral
-1,3,man,neutral
-0,3,woman,neutral
-0,2,woman,positive
-0,2,woman,positive
-1,4,man,negative
-1,4,man,negative
-1,4,man,negative
-0,1,woman,highly positive
-1,2,man,positive
-0,5,woman,highly negative
-1,3,man,neutral
-0,5,woman,highly negative
-1,3,man,neutral
-1,4,man,negative
-1,4,man,negative
-1,2,man,positive
-1,3,man,neutral
-0,3,woman,neutral
-0,4,woman,negative
-0,2,woman,positive
-1,3,man,neutral
-0,2,woman,positive
-0,3,woman,neutral
-1,2,man,positive
-1,3,man,neutral
-1,3,man,neutral
-1,5,man,highly negative
-1,4,man,negative
-0,4,woman,negative
-1,2,man,positive
-1,1,man,highly positive
-0,4,woman,negative
-0,2,woman,positive
-1,4,man,negative
-1,2,man,positive
-1,3,man,neutral
-0,1,woman,highly positive
-1,2,man,positive
-0,2,woman,positive
-0,3,woman,neutral
-0,5,woman,highly negative
-0,3,woman,neutral
-0,1,woman,highly positive
-1,3,man,neutral
-0,4,woman,negative
-0,4,woman,negative
-1,2,man,positive
-0,3,woman,neutral
-0,4,woman,negative
-1,2,man,positive
-1,2,man,positive
-1,3,man,neutral
-1,2,man,positive
-1,4,man,negative
-0,5,woman,highly negative
-1,3,man,neutral
-0,3,woman,neutral
-0,2,woman,positive
-1,3,man,neutral
-0,2,woman,positive
-1,4,man,negative
-0,5,woman,highly negative
-0,4,woman,negative
-1,4,man,negative
-0,3,woman,neutral
-1,3,man,neutral
-0,2,woman,positive
-0,3,woman,neutral
-0,4,woman,negative
-1,3,man,neutral
-1,3,man,neutral
-0,4,woman,negative
-0,3,woman,neutral
-0,3,woman,neutral
-0,1,woman,highly positive
-0,1,woman,highly positive
-1,3,man,neutral
-1,2,man,positive
-1,2,man,positive
-0,2,woman,positive
-0,2,woman,positive
-0,3,woman,neutral
-1,3,man,neutral
-0,3,woman,neutral
-1,4,man,negative
-1,4,man,negative
-0,3,woman,neutral
-1,5,man,highly negative
-1,1,man,highly positive
-0,2,woman,positive
-0,5,woman,highly negative
-0,3,woman,neutral
-0,4,woman,negative
-0,3,woman,neutral
-1,3,man,neutral
-1,5,man,highly negative
-0,3,woman,neutral
-1,4,man,negative
-1,2,man,positive
-1,2,man,positive
-0,2,woman,positive
-1,3,man,neutral
-1,3,man,neutral
-0,3,woman,neutral
-0,4,woman,negative
-0,3,woman,neutral
-0,4,woman,negative
-0,4,woman,negative
-1,3,man,neutral
-1,1,man,highly positive
-0,4,woman,negative
-1,2,man,positive
-0,4,woman,negative
-0,1,woman,highly positive
-0,4,woman,negative
-0,3,woman,neutral
-1,3,man,neutral
-1,2,man,positive
-0,3,woman,neutral
-0,2,woman,positive
-1,4,man,negative
-1,4,man,negative
-1,4,man,negative
-1,5,man,highly negative
-0,2,woman,positive
-0,4,woman,negative
-0,1,woman,highly positive
-1,2,man,positive
-1,2,man,positive
-0,4,woman,negative
-1,4,man,negative
-0,4,woman,negative
-1,2,man,positive
-0,4,woman,negative
-1,2,man,positive
-1,5,man,highly negative
-0,4,woman,negative
-0,4,woman,negative
-0,5,woman,highly negative
-1,1,man,highly positive
-1,3,man,neutral
-0,3,woman,neutral
-0,5,woman,highly negative
-0,3,woman,neutral
-0,1,woman,highly positive
-0,4,woman,negative
-0,4,woman,negative
-0,5,woman,highly negative
-1,1,man,highly positive
-1,4,man,negative
-1,3,man,neutral
-0,4,woman,negative
-1,2,man,positive
-1,4,man,negative
-1,3,man,neutral
-1,2,man,positive
-1,2,man,positive
-1,3,man,neutral
-1,3,man,neutral
-0,3,woman,neutral
-1,2,man,positive
-1,4,man,negative
-0,4,woman,negative
-1,3,man,neutral
-0,4,woman,negative
-0,3,woman,neutral
-1,4,man,negative
-0,4,woman,negative
-0,3,woman,neutral
-0,3,woman,neutral
-1,4,man,negative
-1,4,man,negative
-0,2,woman,positive
-0,4,woman,negative
-1,2,man,positive
-0,4,woman,negative
-1,2,man,positive
-0,3,woman,neutral
-0,3,woman,neutral
-0,5,woman,highly negative
-0,3,woman,neutral
-1,2,man,positive
-1,1,man,highly positive
-0,3,woman,neutral
-0,2,woman,positive
-0,2,woman,positive
-0,4,woman,negative
-0,4,woman,negative
-0,4,woman,negative
-1,2,man,positive
-0,1,woman,highly positive
-1,4,man,negative
-1,5,man,highly negative
-1,2,man,positive
-0,2,woman,positive
-1,1,man,highly positive
-1,5,man,highly negative
-0,4,woman,negative
-1,3,man,neutral
-1,3,man,neutral
-0,5,woman,highly negative
-0,3,woman,neutral
-1,2,man,positive
-1,5,man,highly negative
-1,4,man,negative
-1,4,man,negative
-0,4,woman,negative
-0,3,woman,neutral
-1,4,man,negative
-0,4,woman,negative
-0,5,woman,highly negative
-0,2,woman,positive
-1,4,man,negative
-0,4,woman,negative
-0,4,woman,negative
-1,4,man,negative
-0,5,woman,highly negative
-0,2,woman,positive
-1,4,man,negative
-1,2,man,positive
-1,4,man,negative
-1,4,man,negative
-0,4,woman,negative
-0,3,woman,neutral
-0,5,woman,highly negative
-0,3,woman,neutral
-0,3,woman,neutral
-1,2,man,positive
-1,4,man,negative
-1,2,man,positive
-1,3,man,neutral
-0,4,woman,negative
-1,4,man,negative
-1,2,man,positive
-0,4,woman,negative
-0,4,woman,negative
-0,4,woman,negative
-0,4,woman,negative
-0,3,woman,neutral
-0,3,woman,neutral
-0,5,woman,highly negative
-0,5,woman,highly negative
-1,3,man,neutral
-0,5,woman,highly negative
-0,4,woman,negative
-1,4,man,negative
-0,4,woman,negative
-1,2,man,positive
-1,3,man,neutral
-0,2,woman,positive
-1,4,man,negative
-0,4,woman,negative
-1,1,man,highly positive
-1,3,man,neutral
-1,3,man,neutral
-0,2,woman,positive
-0,3,woman,neutral
-0,3,woman,neutral
-1,4,man,negative
-0,4,woman,negative
-1,2,man,positive
-0,2,woman,positive
-0,2,woman,positive
-1,2,man,positive
-1,2,man,positive
-0,3,woman,neutral
-0,3,woman,neutral
-1,5,man,highly negative
-0,5,woman,highly negative
-0,4,woman,negative
-1,2,man,positive
-0,1,woman,highly positive
-0,3,woman,neutral
-1,4,man,negative
-1,4,man,negative
-1,5,man,highly negative
-1,2,man,positive
-1,3,man,neutral
-1,5,man,highly negative
-0,5,woman,highly negative
-1,4,man,negative
-0,5,woman,highly negative
-1,2,man,positive
-1,3,man,neutral
-1,5,man,highly negative
-0,1,woman,highly positive
-1,2,man,positive
-0,4,woman,negative
-1,4,man,negative
-0,4,woman,negative
-1,3,man,neutral
-0,5,woman,highly negative
-0,4,woman,negative
-1,2,man,positive
-1,1,man,highly positive
-1,2,man,positive
-0,5,woman,highly negative
-1,5,man,highly negative
-1,2,man,positive
-0,2,woman,positive
-1,3,man,neutral
-0,4,woman,negative
-0,5,woman,highly negative
-0,1,woman,highly positive
-0,4,woman,negative
-0,3,woman,neutral
-0,4,woman,negative
-0,4,woman,negative
-0,4,woman,negative
-1,1,man,highly positive
-0,2,woman,positive
-1,3,man,neutral
-0,5,woman,highly negative
-1,1,man,highly positive
-1,3,man,neutral
-1,5,man,highly negative
-1,3,man,neutral
-0,2,woman,positive
-1,3,man,neutral
-0,2,woman,positive
-0,2,woman,positive
-0,2,woman,positive
-0,3,woman,neutral
-0,4,woman,negative
-1,5,man,highly negative
-1,1,man,highly positive
-1,2,man,positive
-0,3,woman,neutral
-0,4,woman,negative
-1,3,man,neutral
-0,3,woman,neutral
-1,4,man,negative
-0,4,woman,negative
-0,5,woman,highly negative
-1,2,man,positive
-1,3,man,neutral
-1,4,man,negative
-0,2,woman,positive
-1,3,man,neutral
-0,3,woman,neutral
-0,3,woman,neutral
-0,4,woman,negative
-1,4,man,negative
-1,5,man,highly negative
-1,4,man,negative
-0,4,woman,negative
-1,2,man,positive
-1,3,man,neutral
-0,4,woman,negative
-0,2,woman,positive
-0,4,woman,negative
-0,2,woman,positive
-0,4,woman,negative
-0,4,woman,negative
-0,2,woman,positive
-1,3,man,neutral
-1,2,man,positive
-0,4,woman,negative
-0,4,woman,negative
-0,4,woman,negative
-0,4,woman,negative
-0,5,woman,highly negative
-0,2,woman,positive
-1,2,man,positive
-0,4,woman,negative
-0,2,woman,positive
-0,2,woman,positive
-1,4,man,negative
-0,1,woman,highly positive
-1,2,man,positive
-0,3,woman,neutral
-1,3,man,neutral
-0,5,woman,highly negative
-1,4,man,negative
-0,3,woman,neutral
-1,5,man,highly negative
-1,4,man,negative
-0,2,woman,positive
-1,2,man,positive
-1,1,man,highly positive
-1,2,man,positive
-0,4,woman,negative
-1,4,man,negative
-0,4,woman,negative
-1,3,man,neutral
-1,4,man,negative
-0,4,woman,negative
-0,4,woman,negative
-1,2,man,positive
-0,4,woman,negative
-0,4,woman,negative
-0,3,woman,neutral
-0,4,woman,negative
-1,2,man,positive
-0,5,woman,highly negative
-0,1,woman,highly positive
-0,2,woman,positive
-0,3,woman,neutral
-0,4,woman,negative
-0,4,woman,negative
-0,5,woman,highly negative
-1,3,man,neutral
-1,4,man,negative
-1,3,man,neutral
-0,4,woman,negative
-1,2,man,positive
-1,3,man,neutral
-1,3,man,neutral
-1,4,man,negative
-0,3,woman,neutral
-1,3,man,neutral
-0,5,woman,highly negative
-1,5,man,highly negative
-1,2,man,positive
-0,3,woman,neutral
-1,4,man,negative
-1,2,man,positive
-0,1,woman,highly positive
-1,2,man,positive
-0,4,woman,negative
-1,3,man,neutral
-1,1,man,highly positive
-0,4,woman,negative
-1,5,man,highly negative
-0,1,woman,highly positive
-1,5,man,highly negative
-1,4,man,negative
-1,3,man,neutral
-1,1,man,highly positive
-1,2,man,positive
-1,2,man,positive
-0,4,woman,negative
-0,3,woman,neutral
-1,3,man,neutral
-0,5,woman,highly negative
-1,4,man,negative
-0,4,woman,negative
-1,3,man,neutral
-0,2,woman,positive
-1,2,man,positive
-1,2,man,positive
-1,5,man,highly negative
-0,3,woman,neutral
-1,3,man,neutral
-1,3,man,neutral
-0,2,woman,positive
-0,3,woman,neutral
-0,3,woman,neutral
-0,4,woman,negative
-1,1,man,highly positive
-1,2,man,positive
-0,4,woman,negative
-1,1,man,highly positive
-1,4,man,negative
-1,3,man,neutral
-1,4,man,negative
-0,4,woman,negative
-0,5,woman,highly negative
-0,3,woman,neutral
-1,2,man,positive
-0,2,woman,positive
-0,5,woman,highly negative
-1,4,man,negative
-1,2,man,positive
-1,2,man,positive
-1,4,man,negative
-0,4,woman,negative
-0,4,woman,negative
-1,2,man,positive
-0,2,woman,positive
-0,1,woman,highly positive
-0,2,woman,positive
-1,1,man,highly positive
-1,3,man,neutral
-0,4,woman,negative
-0,4,woman,negative
-0,3,woman,neutral
-0,2,woman,positive
-1,3,man,neutral
-1,2,man,positive
-0,4,woman,negative
-0,1,woman,highly positive
+"","Man","Movie","fMan","fMovie"
+"1",0,5,"woman","highly negative"
+"2",0,5,"woman","highly negative"
+"3",1,2,"man","positive"
+"4",0,2,"woman","positive"
+"5",0,4,"woman","negative"
+"6",1,4,"man","negative"
+"7",0,4,"woman","negative"
+"8",0,4,"woman","negative"
+"9",0,3,"woman","neutral"
+"10",0,4,"woman","negative"
+"11",0,1,"woman","highly positive"
+"12",1,4,"man","negative"
+"13",0,5,"woman","highly negative"
+"14",0,5,"woman","highly negative"
+"15",1,5,"man","highly negative"
+"16",1,2,"man","positive"
+"17",0,3,"woman","neutral"
+"18",1,2,"man","positive"
+"19",1,2,"man","positive"
+"20",1,2,"man","positive"
+"21",0,5,"woman","highly negative"
+"22",0,2,"woman","positive"
+"23",1,4,"man","negative"
+"24",1,4,"man","negative"
+"25",1,2,"man","positive"
+"26",0,4,"woman","negative"
+"27",1,3,"man","neutral"
+"28",1,4,"man","negative"
+"29",1,2,"man","positive"
+"30",0,3,"woman","neutral"
+"31",0,4,"woman","negative"
+"32",0,4,"woman","negative"
+"33",0,4,"woman","negative"
+"34",0,2,"woman","positive"
+"35",1,5,"man","highly negative"
+"36",0,3,"woman","neutral"
+"37",0,2,"woman","positive"
+"38",0,2,"woman","positive"
+"39",1,3,"man","neutral"
+"40",0,1,"woman","highly positive"
+"41",1,2,"man","positive"
+"42",1,3,"man","neutral"
+"43",0,2,"woman","positive"
+"44",0,3,"woman","neutral"
+"45",0,1,"woman","highly positive"
+"46",1,4,"man","negative"
+"47",0,4,"woman","negative"
+"48",0,4,"woman","negative"
+"49",1,3,"man","neutral"
+"50",0,4,"woman","negative"
+"51",1,2,"man","positive"
+"52",0,3,"woman","neutral"
+"53",1,2,"man","positive"
+"54",0,2,"woman","positive"
+"55",0,3,"woman","neutral"
+"56",0,4,"woman","negative"
+"57",0,5,"woman","highly negative"
+"58",0,2,"woman","positive"
+"59",0,2,"woman","positive"
+"60",0,4,"woman","negative"
+"61",0,2,"woman","positive"
+"62",1,2,"man","positive"
+"63",0,3,"woman","neutral"
+"64",0,4,"woman","negative"
+"65",1,2,"man","positive"
+"66",0,2,"woman","positive"
+"67",0,1,"woman","highly positive"
+"68",0,2,"woman","positive"
+"69",1,5,"man","highly negative"
+"70",0,2,"woman","positive"
+"71",0,1,"woman","highly positive"
+"72",1,5,"man","highly negative"
+"73",0,4,"woman","negative"
+"74",1,3,"man","neutral"
+"75",1,3,"man","neutral"
+"76",0,3,"woman","neutral"
+"77",0,1,"woman","highly positive"
+"78",0,4,"woman","negative"
+"79",0,3,"woman","neutral"
+"80",1,4,"man","negative"
+"81",1,4,"man","negative"
+"82",1,4,"man","negative"
+"83",0,3,"woman","neutral"
+"84",0,4,"woman","negative"
+"85",0,3,"woman","neutral"
+"86",0,3,"woman","neutral"
+"87",0,1,"woman","highly positive"
+"88",0,3,"woman","neutral"
+"89",0,4,"woman","negative"
+"90",1,2,"man","positive"
+"91",1,4,"man","negative"
+"92",0,3,"woman","neutral"
+"93",0,3,"woman","neutral"
+"94",0,4,"woman","negative"
+"95",0,5,"woman","highly negative"
+"96",0,4,"woman","negative"
+"97",0,1,"woman","highly positive"
+"98",1,5,"man","highly negative"
+"99",0,3,"woman","neutral"
+"100",0,2,"woman","positive"
+"101",0,4,"woman","negative"
+"102",0,3,"woman","neutral"
+"103",1,2,"man","positive"
+"104",0,4,"woman","negative"
+"105",0,4,"woman","negative"
+"106",1,2,"man","positive"
+"107",0,2,"woman","positive"
+"108",0,4,"woman","negative"
+"109",0,4,"woman","negative"
+"110",1,2,"man","positive"
+"111",1,3,"man","neutral"
+"112",1,5,"man","highly negative"
+"113",0,3,"woman","neutral"
+"114",1,4,"man","negative"
+"115",0,5,"woman","highly negative"
+"116",0,5,"woman","highly negative"
+"117",0,5,"woman","highly negative"
+"118",0,2,"woman","positive"
+"119",0,4,"woman","negative"
+"120",0,4,"woman","negative"
+"121",1,3,"man","neutral"
+"122",0,4,"woman","negative"
+"123",1,3,"man","neutral"
+"124",0,5,"woman","highly negative"
+"125",1,3,"man","neutral"
+"126",0,3,"woman","neutral"
+"127",0,1,"woman","highly positive"
+"128",0,1,"woman","highly positive"
+"129",0,4,"woman","negative"
+"130",0,2,"woman","positive"
+"131",1,4,"man","negative"
+"132",0,5,"woman","highly negative"
+"133",1,3,"man","neutral"
+"134",0,4,"woman","negative"
+"135",1,2,"man","positive"
+"136",1,4,"man","negative"
+"137",1,4,"man","negative"
+"138",0,4,"woman","negative"
+"139",0,3,"woman","neutral"
+"140",0,3,"woman","neutral"
+"141",0,3,"woman","neutral"
+"142",1,2,"man","positive"
+"143",0,3,"woman","neutral"
+"144",0,3,"woman","neutral"
+"145",0,5,"woman","highly negative"
+"146",1,5,"man","highly negative"
+"147",1,2,"man","positive"
+"148",1,2,"man","positive"
+"149",1,2,"man","positive"
+"150",0,1,"woman","highly positive"
+"151",1,5,"man","highly negative"
+"152",0,4,"woman","negative"
+"153",0,3,"woman","neutral"
+"154",1,2,"man","positive"
+"155",1,2,"man","positive"
+"156",1,2,"man","positive"
+"157",1,3,"man","neutral"
+"158",1,3,"man","neutral"
+"159",0,3,"woman","neutral"
+"160",1,4,"man","negative"
+"161",0,5,"woman","highly negative"
+"162",1,4,"man","negative"
+"163",0,5,"woman","highly negative"
+"164",1,4,"man","negative"
+"165",0,4,"woman","negative"
+"166",0,2,"woman","positive"
+"167",1,2,"man","positive"
+"168",0,3,"woman","neutral"
+"169",0,4,"woman","negative"
+"170",0,2,"woman","positive"
+"171",1,2,"man","positive"
+"172",0,2,"woman","positive"
+"173",0,4,"woman","negative"
+"174",0,3,"woman","neutral"
+"175",1,5,"man","highly negative"
+"176",1,3,"man","neutral"
+"177",1,2,"man","positive"
+"178",0,5,"woman","highly negative"
+"179",0,2,"woman","positive"
+"180",1,3,"man","neutral"
+"181",1,3,"man","neutral"
+"182",0,4,"woman","negative"
+"183",1,4,"man","negative"
+"184",1,1,"man","highly positive"
+"185",1,3,"man","neutral"
+"186",1,4,"man","negative"
+"187",0,4,"woman","negative"
+"188",1,4,"man","negative"
+"189",0,3,"woman","neutral"
+"190",1,3,"man","neutral"
+"191",0,4,"woman","negative"
+"192",1,1,"man","highly positive"
+"193",1,4,"man","negative"
+"194",1,3,"man","neutral"
+"195",1,2,"man","positive"
+"196",0,4,"woman","negative"
+"197",0,2,"woman","positive"
+"198",0,4,"woman","negative"
+"199",0,3,"woman","neutral"
+"200",0,4,"woman","negative"
+"201",0,4,"woman","negative"
+"202",0,3,"woman","neutral"
+"203",0,3,"woman","neutral"
+"204",1,2,"man","positive"
+"205",0,1,"woman","highly positive"
+"206",0,2,"woman","positive"
+"207",1,2,"man","positive"
+"208",0,4,"woman","negative"
+"209",1,2,"man","positive"
+"210",1,4,"man","negative"
+"211",0,4,"woman","negative"
+"212",1,3,"man","neutral"
+"213",0,4,"woman","negative"
+"214",1,3,"man","neutral"
+"215",0,3,"woman","neutral"
+"216",1,1,"man","highly positive"
+"217",0,4,"woman","negative"
+"218",0,2,"woman","positive"
+"219",0,4,"woman","negative"
+"220",1,2,"man","positive"
+"221",1,2,"man","positive"
+"222",1,2,"man","positive"
+"223",1,4,"man","negative"
+"224",1,3,"man","neutral"
+"225",0,5,"woman","highly negative"
+"226",0,5,"woman","highly negative"
+"227",1,3,"man","neutral"
+"228",0,3,"woman","neutral"
+"229",1,3,"man","neutral"
+"230",0,3,"woman","neutral"
+"231",1,3,"man","neutral"
+"232",1,4,"man","negative"
+"233",0,2,"woman","positive"
+"234",1,4,"man","negative"
+"235",1,3,"man","neutral"
+"236",1,4,"man","negative"
+"237",0,4,"woman","negative"
+"238",0,5,"woman","highly negative"
+"239",0,3,"woman","neutral"
+"240",0,1,"woman","highly positive"
+"241",0,2,"woman","positive"
+"242",1,4,"man","negative"
+"243",0,3,"woman","neutral"
+"244",0,2,"woman","positive"
+"245",1,3,"man","neutral"
+"246",0,5,"woman","highly negative"
+"247",1,3,"man","neutral"
+"248",0,3,"woman","neutral"
+"249",0,4,"woman","negative"
+"250",1,2,"man","positive"
+"251",1,4,"man","negative"
+"252",0,4,"woman","negative"
+"253",0,5,"woman","highly negative"
+"254",0,2,"woman","positive"
+"255",0,4,"woman","negative"
+"256",0,2,"woman","positive"
+"257",0,4,"woman","negative"
+"258",1,3,"man","neutral"
+"259",0,3,"woman","neutral"
+"260",0,4,"woman","negative"
+"261",0,3,"woman","neutral"
+"262",0,1,"woman","highly positive"
+"263",1,4,"man","negative"
+"264",0,4,"woman","negative"
+"265",0,3,"woman","neutral"
+"266",0,5,"woman","highly negative"
+"267",1,5,"man","highly negative"
+"268",1,1,"man","highly positive"
+"269",1,4,"man","negative"
+"270",0,1,"woman","highly positive"
+"271",1,4,"man","negative"
+"272",1,3,"man","neutral"
+"273",0,3,"woman","neutral"
+"274",1,3,"man","neutral"
+"275",0,2,"woman","positive"
+"276",1,3,"man","neutral"
+"277",1,4,"man","negative"
+"278",0,5,"woman","highly negative"
+"279",1,3,"man","neutral"
+"280",0,4,"woman","negative"
+"281",1,4,"man","negative"
+"282",0,3,"woman","neutral"
+"283",1,4,"man","negative"
+"284",0,2,"woman","positive"
+"285",1,4,"man","negative"
+"286",0,3,"woman","neutral"
+"287",1,2,"man","positive"
+"288",0,2,"woman","positive"
+"289",0,3,"woman","neutral"
+"290",1,3,"man","neutral"
+"291",1,1,"man","highly positive"
+"292",0,4,"woman","negative"
+"293",1,2,"man","positive"
+"294",1,4,"man","negative"
+"295",1,2,"man","positive"
+"296",1,4,"man","negative"
+"297",1,5,"man","highly negative"
+"298",1,3,"man","neutral"
+"299",1,3,"man","neutral"
+"300",1,3,"man","neutral"
+"301",0,4,"woman","negative"
+"302",0,3,"woman","neutral"
+"303",0,4,"woman","negative"
+"304",0,4,"woman","negative"
+"305",1,2,"man","positive"
+"306",0,4,"woman","negative"
+"307",1,1,"man","highly positive"
+"308",1,3,"man","neutral"
+"309",1,2,"man","positive"
+"310",1,3,"man","neutral"
+"311",1,4,"man","negative"
+"312",0,1,"woman","highly positive"
+"313",0,4,"woman","negative"
+"314",0,4,"woman","negative"
+"315",0,4,"woman","negative"
+"316",0,2,"woman","positive"
+"317",0,2,"woman","positive"
+"318",0,1,"woman","highly positive"
+"319",0,4,"woman","negative"
+"320",1,4,"man","negative"
+"321",0,3,"woman","neutral"
+"322",0,4,"woman","negative"
+"323",1,1,"man","highly positive"
+"324",1,2,"man","positive"
+"325",0,5,"woman","highly negative"
+"326",0,3,"woman","neutral"
+"327",1,4,"man","negative"
+"328",0,2,"woman","positive"
+"329",0,4,"woman","negative"
+"330",1,2,"man","positive"
+"331",0,5,"woman","highly negative"
+"332",0,3,"woman","neutral"
+"333",0,2,"woman","positive"
+"334",0,4,"woman","negative"
+"335",1,3,"man","neutral"
+"336",1,3,"man","neutral"
+"337",1,3,"man","neutral"
+"338",0,4,"woman","negative"
+"339",0,2,"woman","positive"
+"340",0,5,"woman","highly negative"
+"341",0,4,"woman","negative"
+"342",0,4,"woman","negative"
+"343",0,3,"woman","neutral"
+"344",1,5,"man","highly negative"
+"345",1,4,"man","negative"
+"346",0,5,"woman","highly negative"
+"347",0,4,"woman","negative"
+"348",1,2,"man","positive"
+"349",1,2,"man","positive"
+"350",0,4,"woman","negative"
+"351",1,4,"man","negative"
+"352",1,5,"man","highly negative"
+"353",0,5,"woman","highly negative"
+"354",1,4,"man","negative"
+"355",0,5,"woman","highly negative"
+"356",0,2,"woman","positive"
+"357",1,3,"man","neutral"
+"358",1,3,"man","neutral"
+"359",1,2,"man","positive"
+"360",1,3,"man","neutral"
+"361",0,2,"woman","positive"
+"362",1,2,"man","positive"
+"363",0,4,"woman","negative"
+"364",1,3,"man","neutral"
+"365",1,2,"man","positive"
+"366",0,3,"woman","neutral"
+"367",0,5,"woman","highly negative"
+"368",0,5,"woman","highly negative"
+"369",1,3,"man","neutral"
+"370",0,2,"woman","positive"
+"371",0,2,"woman","positive"
+"372",1,4,"man","negative"
+"373",0,3,"woman","neutral"
+"374",1,4,"man","negative"
+"375",1,5,"man","highly negative"
+"376",0,3,"woman","neutral"
+"377",0,3,"woman","neutral"
+"378",0,2,"woman","positive"
+"379",0,4,"woman","negative"
+"380",0,5,"woman","highly negative"
+"381",0,4,"woman","negative"
+"382",0,2,"woman","positive"
+"383",0,4,"woman","negative"
+"384",0,3,"woman","neutral"
+"385",0,3,"woman","neutral"
+"386",1,5,"man","highly negative"
+"387",0,2,"woman","positive"
+"388",0,3,"woman","neutral"
+"389",1,4,"man","negative"
+"390",0,4,"woman","negative"
+"391",0,1,"woman","highly positive"
+"392",0,3,"woman","neutral"
+"393",0,2,"woman","positive"
+"394",1,4,"man","negative"
+"395",1,4,"man","negative"
+"396",1,2,"man","positive"
+"397",1,3,"man","neutral"
+"398",1,1,"man","highly positive"
+"399",1,3,"man","neutral"
+"400",0,4,"woman","negative"
+"401",0,4,"woman","negative"
+"402",0,4,"woman","negative"
+"403",0,3,"woman","neutral"
+"404",1,1,"man","highly positive"
+"405",1,4,"man","negative"
+"406",0,4,"woman","negative"
+"407",0,2,"woman","positive"
+"408",0,3,"woman","neutral"
+"409",0,3,"woman","neutral"
+"410",1,3,"man","neutral"
+"411",0,1,"woman","highly positive"
+"412",1,4,"man","negative"
+"413",0,2,"woman","positive"
+"414",0,3,"woman","neutral"
+"415",0,2,"woman","positive"
+"416",1,4,"man","negative"
+"417",1,2,"man","positive"
+"418",1,4,"man","negative"
+"419",0,3,"woman","neutral"
+"420",1,5,"man","highly negative"
+"421",1,2,"man","positive"
+"422",0,5,"woman","highly negative"
+"423",1,5,"man","highly negative"
+"424",1,2,"man","positive"
+"425",0,4,"woman","negative"
+"426",0,4,"woman","negative"
+"427",1,2,"man","positive"
+"428",1,4,"man","negative"
+"429",0,2,"woman","positive"
+"430",1,2,"man","positive"
+"431",1,3,"man","neutral"
+"432",1,4,"man","negative"
+"433",0,2,"woman","positive"
+"434",0,1,"woman","highly positive"
+"435",0,4,"woman","negative"
+"436",0,2,"woman","positive"
+"437",0,3,"woman","neutral"
+"438",0,2,"woman","positive"
+"439",1,4,"man","negative"
+"440",0,4,"woman","negative"
+"441",1,2,"man","positive"
+"442",0,4,"woman","negative"
+"443",0,5,"woman","highly negative"
+"444",0,3,"woman","neutral"
+"445",1,3,"man","neutral"
+"446",0,4,"woman","negative"
+"447",0,1,"woman","highly positive"
+"448",1,4,"man","negative"
+"449",0,4,"woman","negative"
+"450",0,4,"woman","negative"
+"451",1,3,"man","neutral"
+"452",1,1,"man","highly positive"
+"453",1,4,"man","negative"
+"454",0,4,"woman","negative"
+"455",0,5,"woman","highly negative"
+"456",1,1,"man","highly positive"
+"457",0,2,"woman","positive"
+"458",1,2,"man","positive"
+"459",0,4,"woman","negative"
+"460",1,3,"man","neutral"
+"461",0,2,"woman","positive"
+"462",0,2,"woman","positive"
+"463",1,4,"man","negative"
+"464",0,4,"woman","negative"
+"465",1,2,"man","positive"
+"466",0,4,"woman","negative"
+"467",1,2,"man","positive"
+"468",0,4,"woman","negative"
+"469",1,4,"man","negative"
+"470",1,3,"man","neutral"
+"471",1,2,"man","positive"
+"472",1,5,"man","highly negative"
+"473",0,4,"woman","negative"
+"474",0,2,"woman","positive"
+"475",1,4,"man","negative"
+"476",0,3,"woman","neutral"
+"477",1,3,"man","neutral"
+"478",1,3,"man","neutral"
+"479",0,4,"woman","negative"
+"480",1,2,"man","positive"
+"481",1,3,"man","neutral"
+"482",0,4,"woman","negative"
+"483",0,4,"woman","negative"
+"484",0,3,"woman","neutral"
+"485",1,3,"man","neutral"
+"486",0,4,"woman","negative"
+"487",0,4,"woman","negative"
+"488",1,4,"man","negative"
+"489",1,4,"man","negative"
+"490",1,2,"man","positive"
+"491",0,4,"woman","negative"
+"492",1,2,"man","positive"
+"493",0,4,"woman","negative"
+"494",1,2,"man","positive"
+"495",0,4,"woman","negative"
+"496",1,2,"man","positive"
+"497",0,4,"woman","negative"
+"498",0,4,"woman","negative"
+"499",1,3,"man","neutral"
+"500",0,4,"woman","negative"
+"501",1,4,"man","negative"
+"502",0,3,"woman","neutral"
+"503",0,3,"woman","neutral"
+"504",0,1,"woman","highly positive"
+"505",1,4,"man","negative"
+"506",0,3,"woman","neutral"
+"507",0,1,"woman","highly positive"
+"508",0,3,"woman","neutral"
+"509",0,3,"woman","neutral"
+"510",1,2,"man","positive"
+"511",1,4,"man","negative"
+"512",0,3,"woman","neutral"
+"513",0,2,"woman","positive"
+"514",0,2,"woman","positive"
+"515",0,3,"woman","neutral"
+"516",0,4,"woman","negative"
+"517",1,1,"man","highly positive"
+"518",0,3,"woman","neutral"
+"519",1,2,"man","positive"
+"520",0,3,"woman","neutral"
+"521",0,5,"woman","highly negative"
+"522",1,3,"man","neutral"
+"523",1,4,"man","negative"
+"524",0,5,"woman","highly negative"
+"525",0,4,"woman","negative"
+"526",1,2,"man","positive"
+"527",1,2,"man","positive"
+"528",1,5,"man","highly negative"
+"529",1,1,"man","highly positive"
+"530",0,4,"woman","negative"
+"531",1,4,"man","negative"
+"532",0,2,"woman","positive"
+"533",0,5,"woman","highly negative"
+"534",0,2,"woman","positive"
+"535",1,3,"man","neutral"
+"536",0,5,"woman","highly negative"
+"537",1,3,"man","neutral"
+"538",0,2,"woman","positive"
+"539",0,3,"woman","neutral"
+"540",1,4,"man","negative"
+"541",0,4,"woman","negative"
+"542",1,5,"man","highly negative"
+"543",1,4,"man","negative"
+"544",1,5,"man","highly negative"
+"545",1,2,"man","positive"
+"546",0,3,"woman","neutral"
+"547",1,4,"man","negative"
+"548",0,4,"woman","negative"
+"549",0,3,"woman","neutral"
+"550",0,3,"woman","neutral"
+"551",1,4,"man","negative"
+"552",0,4,"woman","negative"
+"553",0,4,"woman","negative"
+"554",1,2,"man","positive"
+"555",0,2,"woman","positive"
+"556",0,1,"woman","highly positive"
+"557",1,4,"man","negative"
+"558",0,4,"woman","negative"
+"559",1,2,"man","positive"
+"560",1,3,"man","neutral"
+"561",0,3,"woman","neutral"
+"562",0,2,"woman","positive"
+"563",1,3,"man","neutral"
+"564",1,1,"man","highly positive"
+"565",1,3,"man","neutral"
+"566",0,3,"woman","neutral"
+"567",1,2,"man","positive"
+"568",0,3,"woman","neutral"
+"569",1,4,"man","negative"
+"570",1,5,"man","highly negative"
+"571",0,4,"woman","negative"
+"572",1,4,"man","negative"
+"573",0,4,"woman","negative"
+"574",0,2,"woman","positive"
+"575",0,2,"woman","positive"
+"576",1,3,"man","neutral"
+"577",0,4,"woman","negative"
+"578",0,5,"woman","highly negative"
+"579",0,2,"woman","positive"
+"580",1,2,"man","positive"
+"581",1,4,"man","negative"
+"582",1,5,"man","highly negative"
+"583",0,4,"woman","negative"
+"584",0,3,"woman","neutral"
+"585",1,5,"man","highly negative"
+"586",0,5,"woman","highly negative"
+"587",1,2,"man","positive"
+"588",0,2,"woman","positive"
+"589",1,4,"man","negative"
+"590",0,2,"woman","positive"
+"591",0,5,"woman","highly negative"
+"592",0,2,"woman","positive"
+"593",0,4,"woman","negative"
+"594",0,4,"woman","negative"
+"595",1,1,"man","highly positive"
+"596",0,1,"woman","highly positive"
+"597",0,3,"woman","neutral"
+"598",1,4,"man","negative"
+"599",1,3,"man","neutral"
+"600",1,2,"man","positive"
+"601",0,3,"woman","neutral"
+"602",0,5,"woman","highly negative"
+"603",0,3,"woman","neutral"
+"604",0,2,"woman","positive"
+"605",0,5,"woman","highly negative"
+"606",0,3,"woman","neutral"
+"607",0,2,"woman","positive"
+"608",0,2,"woman","positive"
+"609",1,2,"man","positive"
+"610",1,4,"man","negative"
+"611",1,3,"man","neutral"
+"612",1,2,"man","positive"
+"613",0,4,"woman","negative"
+"614",1,3,"man","neutral"
+"615",1,2,"man","positive"
+"616",1,4,"man","negative"
+"617",0,1,"woman","highly positive"
+"618",1,3,"man","neutral"
+"619",1,2,"man","positive"
+"620",0,4,"woman","negative"
+"621",0,4,"woman","negative"
+"622",0,3,"woman","neutral"
+"623",1,3,"man","neutral"
+"624",1,4,"man","negative"
+"625",0,4,"woman","negative"
+"626",1,1,"man","highly positive"
+"627",1,4,"man","negative"
+"628",0,3,"woman","neutral"
+"629",0,2,"woman","positive"
+"630",0,5,"woman","highly negative"
+"631",0,4,"woman","negative"
+"632",0,4,"woman","negative"
+"633",0,2,"woman","positive"
+"634",0,4,"woman","negative"
+"635",0,4,"woman","negative"
+"636",0,3,"woman","neutral"
+"637",1,3,"man","neutral"
+"638",1,1,"man","highly positive"
+"639",1,5,"man","highly negative"
+"640",0,5,"woman","highly negative"
+"641",0,3,"woman","neutral"
+"642",0,2,"woman","positive"
+"643",1,2,"man","positive"
+"644",1,2,"man","positive"
+"645",0,3,"woman","neutral"
+"646",0,3,"woman","neutral"
+"647",0,4,"woman","negative"
+"648",0,2,"woman","positive"
+"649",0,4,"woman","negative"
+"650",1,3,"man","neutral"
+"651",0,4,"woman","negative"
+"652",1,1,"man","highly positive"
+"653",1,4,"man","negative"
+"654",1,4,"man","negative"
+"655",0,3,"woman","neutral"
+"656",1,3,"man","neutral"
+"657",0,3,"woman","neutral"
+"658",0,2,"woman","positive"
+"659",0,1,"woman","highly positive"
+"660",0,4,"woman","negative"
+"661",0,4,"woman","negative"
+"662",0,3,"woman","neutral"
+"663",1,2,"man","positive"
+"664",0,2,"woman","positive"
+"665",1,4,"man","negative"
+"666",1,3,"man","neutral"
+"667",1,2,"man","positive"
+"668",1,1,"man","highly positive"
+"669",1,3,"man","neutral"
+"670",1,4,"man","negative"
+"671",0,4,"woman","negative"
+"672",0,2,"woman","positive"
+"673",1,3,"man","neutral"
+"674",1,2,"man","positive"
+"675",1,3,"man","neutral"
+"676",1,2,"man","positive"
+"677",0,2,"woman","positive"
+"678",0,2,"woman","positive"
+"679",0,5,"woman","highly negative"
+"680",1,2,"man","positive"
+"681",0,4,"woman","negative"
+"682",1,4,"man","negative"
+"683",0,2,"woman","positive"
+"684",0,2,"woman","positive"
+"685",1,5,"man","highly negative"
+"686",1,1,"man","highly positive"
+"687",0,4,"woman","negative"
+"688",1,4,"man","negative"
+"689",0,3,"woman","neutral"
+"690",0,3,"woman","neutral"
+"691",0,2,"woman","positive"
+"692",1,4,"man","negative"
+"693",0,2,"woman","positive"
+"694",0,2,"woman","positive"
+"695",1,3,"man","neutral"
+"696",1,1,"man","highly positive"
+"697",0,5,"woman","highly negative"
+"698",0,3,"woman","neutral"
+"699",0,2,"woman","positive"
+"700",0,3,"woman","neutral"
+"701",0,5,"woman","highly negative"
+"702",0,1,"woman","highly positive"
+"703",0,1,"woman","highly positive"
+"704",0,4,"woman","negative"
+"705",1,3,"man","neutral"
+"706",0,4,"woman","negative"
+"707",1,4,"man","negative"
+"708",0,3,"woman","neutral"
+"709",0,2,"woman","positive"
+"710",1,4,"man","negative"
+"711",0,3,"woman","neutral"
+"712",0,2,"woman","positive"
+"713",1,2,"man","positive"
+"714",0,3,"woman","neutral"
+"715",1,2,"man","positive"
+"716",0,3,"woman","neutral"
+"717",1,3,"man","neutral"
+"718",1,4,"man","negative"
+"719",1,3,"man","neutral"
+"720",1,5,"man","highly negative"
+"721",1,3,"man","neutral"
+"722",1,2,"man","positive"
+"723",0,3,"woman","neutral"
+"724",0,3,"woman","neutral"
+"725",1,4,"man","negative"
+"726",0,4,"woman","negative"
+"727",0,4,"woman","negative"
+"728",0,2,"woman","positive"
+"729",0,4,"woman","negative"
+"730",0,3,"woman","neutral"
+"731",0,3,"woman","neutral"
+"732",0,3,"woman","neutral"
+"733",0,3,"woman","neutral"
+"734",1,2,"man","positive"
+"735",0,3,"woman","neutral"
+"736",0,5,"woman","highly negative"
+"737",0,2,"woman","positive"
+"738",1,4,"man","negative"
+"739",1,2,"man","positive"
+"740",1,4,"man","negative"
+"741",1,4,"man","negative"
+"742",0,5,"woman","highly negative"
+"743",0,2,"woman","positive"
+"744",0,4,"woman","negative"
+"745",0,2,"woman","positive"
+"746",1,3,"man","neutral"
+"747",0,2,"woman","positive"
+"748",1,3,"man","neutral"
+"749",0,2,"woman","positive"
+"750",1,3,"man","neutral"
+"751",1,4,"man","negative"
+"752",0,1,"woman","highly positive"
+"753",1,2,"man","positive"
+"754",1,1,"man","highly positive"
+"755",1,3,"man","neutral"
+"756",0,4,"woman","negative"
+"757",1,4,"man","negative"
+"758",0,2,"woman","positive"
+"759",0,4,"woman","negative"
+"760",0,3,"woman","neutral"
+"761",1,4,"man","negative"
+"762",0,3,"woman","neutral"
+"763",0,4,"woman","negative"
+"764",0,2,"woman","positive"
+"765",1,3,"man","neutral"
+"766",0,4,"woman","negative"
+"767",1,3,"man","neutral"
+"768",0,5,"woman","highly negative"
+"769",0,2,"woman","positive"
+"770",0,4,"woman","negative"
+"771",0,3,"woman","neutral"
+"772",0,3,"woman","neutral"
+"773",1,3,"man","neutral"
+"774",1,2,"man","positive"
+"775",0,4,"woman","negative"
+"776",1,4,"man","negative"
+"777",0,5,"woman","highly negative"
+"778",1,1,"man","highly positive"
+"779",0,1,"woman","highly positive"
+"780",1,4,"man","negative"
+"781",0,3,"woman","neutral"
+"782",1,3,"man","neutral"
+"783",0,4,"woman","negative"
+"784",0,2,"woman","positive"
+"785",1,3,"man","neutral"
+"786",0,5,"woman","highly negative"
+"787",0,1,"woman","highly positive"
+"788",0,3,"woman","neutral"
+"789",1,2,"man","positive"
+"790",0,5,"woman","highly negative"
+"791",1,3,"man","neutral"
+"792",1,3,"man","neutral"
+"793",0,3,"woman","neutral"
+"794",0,3,"woman","neutral"
+"795",1,4,"man","negative"
+"796",0,1,"woman","highly positive"
+"797",1,4,"man","negative"
+"798",1,4,"man","negative"
+"799",0,4,"woman","negative"
+"800",0,4,"woman","negative"
+"801",0,5,"woman","highly negative"
+"802",0,3,"woman","neutral"
+"803",0,4,"woman","negative"
+"804",1,1,"man","highly positive"
+"805",0,3,"woman","neutral"
+"806",0,5,"woman","highly negative"
+"807",1,3,"man","neutral"
+"808",0,2,"woman","positive"
+"809",1,5,"man","highly negative"
+"810",0,3,"woman","neutral"
+"811",1,4,"man","negative"
+"812",0,5,"woman","highly negative"
+"813",0,2,"woman","positive"
+"814",1,2,"man","positive"
+"815",0,2,"woman","positive"
+"816",0,4,"woman","negative"
+"817",1,3,"man","neutral"
+"818",0,4,"woman","negative"
+"819",0,4,"woman","negative"
+"820",0,4,"woman","negative"
+"821",0,2,"woman","positive"
+"822",0,3,"woman","neutral"
+"823",1,4,"man","negative"
+"824",0,4,"woman","negative"
+"825",1,2,"man","positive"
+"826",1,2,"man","positive"
+"827",0,4,"woman","negative"
+"828",1,2,"man","positive"
+"829",1,2,"man","positive"
+"830",0,5,"woman","highly negative"
+"831",0,2,"woman","positive"
+"832",0,3,"woman","neutral"
+"833",1,3,"man","neutral"
+"834",1,3,"man","neutral"
+"835",0,3,"woman","neutral"
+"836",0,5,"woman","highly negative"
+"837",0,3,"woman","neutral"
+"838",1,4,"man","negative"
+"839",1,3,"man","neutral"
+"840",0,3,"woman","neutral"
+"841",1,3,"man","neutral"
+"842",0,3,"woman","neutral"
+"843",0,2,"woman","positive"
+"844",0,2,"woman","positive"
+"845",1,4,"man","negative"
+"846",1,4,"man","negative"
+"847",1,4,"man","negative"
+"848",0,1,"woman","highly positive"
+"849",1,2,"man","positive"
+"850",0,5,"woman","highly negative"
+"851",1,3,"man","neutral"
+"852",0,5,"woman","highly negative"
+"853",1,3,"man","neutral"
+"854",1,4,"man","negative"
+"855",1,4,"man","negative"
+"856",1,2,"man","positive"
+"857",1,3,"man","neutral"
+"858",0,3,"woman","neutral"
+"859",0,4,"woman","negative"
+"860",0,2,"woman","positive"
+"861",1,3,"man","neutral"
+"862",0,2,"woman","positive"
+"863",0,3,"woman","neutral"
+"864",1,2,"man","positive"
+"865",1,3,"man","neutral"
+"866",1,3,"man","neutral"
+"867",1,5,"man","highly negative"
+"868",1,4,"man","negative"
+"869",0,4,"woman","negative"
+"870",1,2,"man","positive"
+"871",1,1,"man","highly positive"
+"872",0,4,"woman","negative"
+"873",0,2,"woman","positive"
+"874",1,4,"man","negative"
+"875",1,2,"man","positive"
+"876",1,3,"man","neutral"
+"877",0,1,"woman","highly positive"
+"878",1,2,"man","positive"
+"879",0,2,"woman","positive"
+"880",0,3,"woman","neutral"
+"881",0,5,"woman","highly negative"
+"882",0,3,"woman","neutral"
+"883",0,1,"woman","highly positive"
+"884",1,3,"man","neutral"
+"885",0,4,"woman","negative"
+"886",0,4,"woman","negative"
+"887",1,2,"man","positive"
+"888",0,3,"woman","neutral"
+"889",0,4,"woman","negative"
+"890",1,2,"man","positive"
+"891",1,2,"man","positive"
+"892",1,3,"man","neutral"
+"893",1,2,"man","positive"
+"894",1,4,"man","negative"
+"895",0,5,"woman","highly negative"
+"896",1,3,"man","neutral"
+"897",0,3,"woman","neutral"
+"898",0,2,"woman","positive"
+"899",1,3,"man","neutral"
+"900",0,2,"woman","positive"
+"901",1,4,"man","negative"
+"902",0,5,"woman","highly negative"
+"903",0,4,"woman","negative"
+"904",1,4,"man","negative"
+"905",0,3,"woman","neutral"
+"906",1,3,"man","neutral"
+"907",0,2,"woman","positive"
+"908",0,3,"woman","neutral"
+"909",0,4,"woman","negative"
+"910",1,3,"man","neutral"
+"911",1,3,"man","neutral"
+"912",0,4,"woman","negative"
+"913",0,3,"woman","neutral"
+"914",0,3,"woman","neutral"
+"915",0,1,"woman","highly positive"
+"916",0,1,"woman","highly positive"
+"917",1,3,"man","neutral"
+"918",1,2,"man","positive"
+"919",1,2,"man","positive"
+"920",0,2,"woman","positive"
+"921",0,2,"woman","positive"
+"922",0,3,"woman","neutral"
+"923",1,3,"man","neutral"
+"924",0,3,"woman","neutral"
+"925",1,4,"man","negative"
+"926",1,4,"man","negative"
+"927",0,3,"woman","neutral"
+"928",1,5,"man","highly negative"
+"929",1,1,"man","highly positive"
+"930",0,2,"woman","positive"
+"931",0,5,"woman","highly negative"
+"932",0,3,"woman","neutral"
+"933",0,4,"woman","negative"
+"934",0,3,"woman","neutral"
+"935",1,3,"man","neutral"
+"936",1,5,"man","highly negative"
+"937",0,3,"woman","neutral"
+"938",1,4,"man","negative"
+"939",1,2,"man","positive"
+"940",1,2,"man","positive"
+"941",0,2,"woman","positive"
+"942",1,3,"man","neutral"
+"943",1,3,"man","neutral"
+"944",0,3,"woman","neutral"
+"945",0,4,"woman","negative"
+"946",0,3,"woman","neutral"
+"947",0,4,"woman","negative"
+"948",0,4,"woman","negative"
+"949",1,3,"man","neutral"
+"950",1,1,"man","highly positive"
+"951",0,4,"woman","negative"
+"952",1,2,"man","positive"
+"953",0,4,"woman","negative"
+"954",0,1,"woman","highly positive"
+"955",0,4,"woman","negative"
+"956",0,3,"woman","neutral"
+"957",1,3,"man","neutral"
+"958",1,2,"man","positive"
+"959",0,3,"woman","neutral"
+"960",0,2,"woman","positive"
+"961",1,4,"man","negative"
+"962",1,4,"man","negative"
+"963",1,4,"man","negative"
+"964",1,5,"man","highly negative"
+"965",0,2,"woman","positive"
+"966",0,4,"woman","negative"
+"967",0,1,"woman","highly positive"
+"968",1,2,"man","positive"
+"969",1,2,"man","positive"
+"970",0,4,"woman","negative"
+"971",1,4,"man","negative"
+"972",0,4,"woman","negative"
+"973",1,2,"man","positive"
+"974",0,4,"woman","negative"
+"975",1,2,"man","positive"
+"976",1,5,"man","highly negative"
+"977",0,4,"woman","negative"
+"978",0,4,"woman","negative"
+"979",0,5,"woman","highly negative"
+"980",1,1,"man","highly positive"
+"981",1,3,"man","neutral"
+"982",0,3,"woman","neutral"
+"983",0,5,"woman","highly negative"
+"984",0,3,"woman","neutral"
+"985",0,1,"woman","highly positive"
+"986",0,4,"woman","negative"
+"987",0,4,"woman","negative"
+"988",0,5,"woman","highly negative"
+"989",1,1,"man","highly positive"
+"990",1,4,"man","negative"
+"991",1,3,"man","neutral"
+"992",0,4,"woman","negative"
+"993",1,2,"man","positive"
+"994",1,4,"man","negative"
+"995",1,3,"man","neutral"
+"996",1,2,"man","positive"
+"997",1,2,"man","positive"
+"998",1,3,"man","neutral"
+"999",1,3,"man","neutral"
+"1000",0,3,"woman","neutral"
+"1001",1,2,"man","positive"
+"1002",1,4,"man","negative"
+"1003",0,4,"woman","negative"
+"1004",1,3,"man","neutral"
+"1005",0,4,"woman","negative"
+"1006",0,3,"woman","neutral"
+"1007",1,4,"man","negative"
+"1008",0,4,"woman","negative"
+"1009",0,3,"woman","neutral"
+"1010",0,3,"woman","neutral"
+"1011",1,4,"man","negative"
+"1012",1,4,"man","negative"
+"1013",0,2,"woman","positive"
+"1014",0,4,"woman","negative"
+"1015",1,2,"man","positive"
+"1016",0,4,"woman","negative"
+"1017",1,2,"man","positive"
+"1018",0,3,"woman","neutral"
+"1019",0,3,"woman","neutral"
+"1020",0,5,"woman","highly negative"
+"1021",0,3,"woman","neutral"
+"1022",1,2,"man","positive"
+"1023",1,1,"man","highly positive"
+"1024",0,3,"woman","neutral"
+"1025",0,2,"woman","positive"
+"1026",0,2,"woman","positive"
+"1027",0,4,"woman","negative"
+"1028",0,4,"woman","negative"
+"1029",0,4,"woman","negative"
+"1030",1,2,"man","positive"
+"1031",0,1,"woman","highly positive"
+"1032",1,4,"man","negative"
+"1033",1,5,"man","highly negative"
+"1034",1,2,"man","positive"
+"1035",0,2,"woman","positive"
+"1036",1,1,"man","highly positive"
+"1037",1,5,"man","highly negative"
+"1038",0,4,"woman","negative"
+"1039",1,3,"man","neutral"
+"1040",1,3,"man","neutral"
+"1041",0,5,"woman","highly negative"
+"1042",0,3,"woman","neutral"
+"1043",1,2,"man","positive"
+"1044",1,5,"man","highly negative"
+"1045",1,4,"man","negative"
+"1046",1,4,"man","negative"
+"1047",0,4,"woman","negative"
+"1048",0,3,"woman","neutral"
+"1049",1,4,"man","negative"
+"1050",0,4,"woman","negative"
+"1051",0,5,"woman","highly negative"
+"1052",0,2,"woman","positive"
+"1053",1,4,"man","negative"
+"1054",0,4,"woman","negative"
+"1055",0,4,"woman","negative"
+"1056",1,4,"man","negative"
+"1057",0,5,"woman","highly negative"
+"1058",0,2,"woman","positive"
+"1059",1,4,"man","negative"
+"1060",1,2,"man","positive"
+"1061",1,4,"man","negative"
+"1062",1,4,"man","negative"
+"1063",0,4,"woman","negative"
+"1064",0,3,"woman","neutral"
+"1065",0,5,"woman","highly negative"
+"1066",0,3,"woman","neutral"
+"1067",0,3,"woman","neutral"
+"1068",1,2,"man","positive"
+"1069",1,4,"man","negative"
+"1070",1,2,"man","positive"
+"1071",1,3,"man","neutral"
+"1072",0,4,"woman","negative"
+"1073",1,4,"man","negative"
+"1074",1,2,"man","positive"
+"1075",0,4,"woman","negative"
+"1076",0,4,"woman","negative"
+"1077",0,4,"woman","negative"
+"1078",0,4,"woman","negative"
+"1079",0,3,"woman","neutral"
+"1080",0,3,"woman","neutral"
+"1081",0,5,"woman","highly negative"
+"1082",0,5,"woman","highly negative"
+"1083",1,3,"man","neutral"
+"1084",0,5,"woman","highly negative"
+"1085",0,4,"woman","negative"
+"1086",1,4,"man","negative"
+"1087",0,4,"woman","negative"
+"1088",1,2,"man","positive"
+"1089",1,3,"man","neutral"
+"1090",0,2,"woman","positive"
+"1091",1,4,"man","negative"
+"1092",0,4,"woman","negative"
+"1093",1,1,"man","highly positive"
+"1094",1,3,"man","neutral"
+"1095",1,3,"man","neutral"
+"1096",0,2,"woman","positive"
+"1097",0,3,"woman","neutral"
+"1098",0,3,"woman","neutral"
+"1099",1,4,"man","negative"
+"1100",0,4,"woman","negative"
+"1101",1,2,"man","positive"
+"1102",0,2,"woman","positive"
+"1103",0,2,"woman","positive"
+"1104",1,2,"man","positive"
+"1105",1,2,"man","positive"
+"1106",0,3,"woman","neutral"
+"1107",0,3,"woman","neutral"
+"1108",1,5,"man","highly negative"
+"1109",0,5,"woman","highly negative"
+"1110",0,4,"woman","negative"
+"1111",1,2,"man","positive"
+"1112",0,1,"woman","highly positive"
+"1113",0,3,"woman","neutral"
+"1114",1,4,"man","negative"
+"1115",1,4,"man","negative"
+"1116",1,5,"man","highly negative"
+"1117",1,2,"man","positive"
+"1118",1,3,"man","neutral"
+"1119",1,5,"man","highly negative"
+"1120",0,5,"woman","highly negative"
+"1121",1,4,"man","negative"
+"1122",0,5,"woman","highly negative"
+"1123",1,2,"man","positive"
+"1124",1,3,"man","neutral"
+"1125",1,5,"man","highly negative"
+"1126",0,1,"woman","highly positive"
+"1127",1,2,"man","positive"
+"1128",0,4,"woman","negative"
+"1129",1,4,"man","negative"
+"1130",0,4,"woman","negative"
+"1131",1,3,"man","neutral"
+"1132",0,5,"woman","highly negative"
+"1133",0,4,"woman","negative"
+"1134",1,2,"man","positive"
+"1135",1,1,"man","highly positive"
+"1136",1,2,"man","positive"
+"1137",0,5,"woman","highly negative"
+"1138",1,5,"man","highly negative"
+"1139",1,2,"man","positive"
+"1140",0,2,"woman","positive"
+"1141",1,3,"man","neutral"
+"1142",0,4,"woman","negative"
+"1143",0,5,"woman","highly negative"
+"1144",0,1,"woman","highly positive"
+"1145",0,4,"woman","negative"
+"1146",0,3,"woman","neutral"
+"1147",0,4,"woman","negative"
+"1148",0,4,"woman","negative"
+"1149",0,4,"woman","negative"
+"1150",1,1,"man","highly positive"
+"1151",0,2,"woman","positive"
+"1152",1,3,"man","neutral"
+"1153",0,5,"woman","highly negative"
+"1154",1,1,"man","highly positive"
+"1155",1,3,"man","neutral"
+"1156",1,5,"man","highly negative"
+"1157",1,3,"man","neutral"
+"1158",0,2,"woman","positive"
+"1159",1,3,"man","neutral"
+"1160",0,2,"woman","positive"
+"1161",0,2,"woman","positive"
+"1162",0,2,"woman","positive"
+"1163",0,3,"woman","neutral"
+"1164",0,4,"woman","negative"
+"1165",1,5,"man","highly negative"
+"1166",1,1,"man","highly positive"
+"1167",1,2,"man","positive"
+"1168",0,3,"woman","neutral"
+"1169",0,4,"woman","negative"
+"1170",1,3,"man","neutral"
+"1171",0,3,"woman","neutral"
+"1172",1,4,"man","negative"
+"1173",0,4,"woman","negative"
+"1174",0,5,"woman","highly negative"
+"1175",1,2,"man","positive"
+"1176",1,3,"man","neutral"
+"1177",1,4,"man","negative"
+"1178",0,2,"woman","positive"
+"1179",1,3,"man","neutral"
+"1180",0,3,"woman","neutral"
+"1181",0,3,"woman","neutral"
+"1182",0,4,"woman","negative"
+"1183",1,4,"man","negative"
+"1184",1,5,"man","highly negative"
+"1185",1,4,"man","negative"
+"1186",0,4,"woman","negative"
+"1187",1,2,"man","positive"
+"1188",1,3,"man","neutral"
+"1189",0,4,"woman","negative"
+"1190",0,2,"woman","positive"
+"1191",0,4,"woman","negative"
+"1192",0,2,"woman","positive"
+"1193",0,4,"woman","negative"
+"1194",0,4,"woman","negative"
+"1195",0,2,"woman","positive"
+"1196",1,3,"man","neutral"
+"1197",1,2,"man","positive"
+"1198",0,4,"woman","negative"
+"1199",0,4,"woman","negative"
+"1200",0,4,"woman","negative"
+"1201",0,4,"woman","negative"
+"1202",0,5,"woman","highly negative"
+"1203",0,2,"woman","positive"
+"1204",1,2,"man","positive"
+"1205",0,4,"woman","negative"
+"1206",0,2,"woman","positive"
+"1207",0,2,"woman","positive"
+"1208",1,4,"man","negative"
+"1209",0,1,"woman","highly positive"
+"1210",1,2,"man","positive"
+"1211",0,3,"woman","neutral"
+"1212",1,3,"man","neutral"
+"1213",0,5,"woman","highly negative"
+"1214",1,4,"man","negative"
+"1215",0,3,"woman","neutral"
+"1216",1,5,"man","highly negative"
+"1217",1,4,"man","negative"
+"1218",0,2,"woman","positive"
+"1219",1,2,"man","positive"
+"1220",1,1,"man","highly positive"
+"1221",1,2,"man","positive"
+"1222",0,4,"woman","negative"
+"1223",1,4,"man","negative"
+"1224",0,4,"woman","negative"
+"1225",1,3,"man","neutral"
+"1226",1,4,"man","negative"
+"1227",0,4,"woman","negative"
+"1228",0,4,"woman","negative"
+"1229",1,2,"man","positive"
+"1230",0,4,"woman","negative"
+"1231",0,4,"woman","negative"
+"1232",0,3,"woman","neutral"
+"1233",0,4,"woman","negative"
+"1234",1,2,"man","positive"
+"1235",0,5,"woman","highly negative"
+"1236",0,1,"woman","highly positive"
+"1237",0,2,"woman","positive"
+"1238",0,3,"woman","neutral"
+"1239",0,4,"woman","negative"
+"1240",0,4,"woman","negative"
+"1241",0,5,"woman","highly negative"
+"1242",1,3,"man","neutral"
+"1243",1,4,"man","negative"
+"1244",1,3,"man","neutral"
+"1245",0,4,"woman","negative"
+"1246",1,2,"man","positive"
+"1247",1,3,"man","neutral"
+"1248",1,3,"man","neutral"
+"1249",1,4,"man","negative"
+"1250",0,3,"woman","neutral"
+"1251",1,3,"man","neutral"
+"1252",0,5,"woman","highly negative"
+"1253",1,5,"man","highly negative"
+"1254",1,2,"man","positive"
+"1255",0,3,"woman","neutral"
+"1256",1,4,"man","negative"
+"1257",1,2,"man","positive"
+"1258",0,1,"woman","highly positive"
+"1259",1,2,"man","positive"
+"1260",0,4,"woman","negative"
+"1261",1,3,"man","neutral"
+"1262",1,1,"man","highly positive"
+"1263",0,4,"woman","negative"
+"1264",1,5,"man","highly negative"
+"1265",0,1,"woman","highly positive"
+"1266",1,5,"man","highly negative"
+"1267",1,4,"man","negative"
+"1268",1,3,"man","neutral"
+"1269",1,1,"man","highly positive"
+"1270",1,2,"man","positive"
+"1271",1,2,"man","positive"
+"1272",0,4,"woman","negative"
+"1273",0,3,"woman","neutral"
+"1274",1,3,"man","neutral"
+"1275",0,5,"woman","highly negative"
+"1276",1,4,"man","negative"
+"1277",0,4,"woman","negative"
+"1278",1,3,"man","neutral"
+"1279",0,2,"woman","positive"
+"1280",1,2,"man","positive"
+"1281",1,2,"man","positive"
+"1282",1,5,"man","highly negative"
+"1283",0,3,"woman","neutral"
+"1284",1,3,"man","neutral"
+"1285",1,3,"man","neutral"
+"1286",0,2,"woman","positive"
+"1287",0,3,"woman","neutral"
+"1288",0,3,"woman","neutral"
+"1289",0,4,"woman","negative"
+"1290",1,1,"man","highly positive"
+"1291",1,2,"man","positive"
+"1292",0,4,"woman","negative"
+"1293",1,1,"man","highly positive"
+"1294",1,4,"man","negative"
+"1295",1,3,"man","neutral"
+"1296",1,4,"man","negative"
+"1297",0,4,"woman","negative"
+"1298",0,5,"woman","highly negative"
+"1299",0,3,"woman","neutral"
+"1300",1,2,"man","positive"
+"1301",0,2,"woman","positive"
+"1302",0,5,"woman","highly negative"
+"1303",1,4,"man","negative"
+"1304",1,2,"man","positive"
+"1305",1,2,"man","positive"
+"1306",1,4,"man","negative"
+"1307",0,4,"woman","negative"
+"1308",0,4,"woman","negative"
+"1309",1,2,"man","positive"
+"1310",0,2,"woman","positive"
+"1311",0,1,"woman","highly positive"
+"1312",0,2,"woman","positive"
+"1313",1,1,"man","highly positive"
+"1314",1,3,"man","neutral"
+"1315",0,4,"woman","negative"
+"1316",0,4,"woman","negative"
+"1317",0,3,"woman","neutral"
+"1318",0,2,"woman","positive"
+"1319",1,3,"man","neutral"
+"1320",1,2,"man","positive"
+"1321",0,4,"woman","negative"
+"1322",0,1,"woman","highly positive"

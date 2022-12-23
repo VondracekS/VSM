@@ -1,0 +1,138 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+# Time Series Econometrics, Assihnment n. 6
+```{r, echo=FALSE}
+library(quantmod)
+library(mFilter)
+library(tseries)
+library(lmtest)
+library(forecast)
+library(fGarch)
+library(aTSA)
+library(rugarch)
+
+Sys.setenv(http_proxy = "http://10.246.170.130:3128")
+Sys.setenv(https_proxy = "http://10.246.170.130:3128")
+```
+
+At first, I download the data
+```{r, echo=FALSE}
+#GET DATA
+getSymbols("MDLZ", from = '2013-01-01', to = "2022-11-18",warnings = FALSE, auto.assign = TRUE)
+getSymbols("^GSPC", from = '2013-01-01', to = "2022-11-18",warnings = FALSE, auto.assign = TRUE)
+
+MDLZ = MDLZ$MDLZ.Adjusted
+GSPC = GSPC$GSPC.Adjusted
+```
+In the assignment, I'll work with detrended variables, therefore I'll construct returns.
+
+
+```{r}
+lnMDLZ = log(MDLZ)
+lnGSPC = log(GSPC)
+
+retMDLZ = diff(lnMDLZ)
+retGSPC = diff(lnGSPC)
+retMDLZ = retMDLZ[-c(1),]
+retGSPC = retGSPC[-c(1),]
+```
+
+At this point, I examine the density of returns for selected stock/index.
+
+```{r}
+#A
+qMDLZ = quantile(retMDLZ, 0.05)
+hist(retMDLZ, breaks=30)
+abline(v=qMDLZ, col="blue", lwd=2)
+plot(density(retMDLZ))
+
+qGSPC = quantile(retGSPC, 0.05)
+hist(retGSPC, breaks=30)
+abline(v=qGSPC, col="blue", lwd=2)
+plot(density(retGSPC))
+```
+
+## 2.A
+
+In this subsection, I estiate the volatility
+```{r}
+#A# ARIMA(0,0,0)
+MDLZarima = arima(retMDLZ, order=c(0,0,0))
+MDLZcoef = MDLZarima$coef
+MDLZsigma = sqrt(MDLZarima$sigma2)
+varMDLZ = MDLZcoef - MDLZsigma * 1.96
+
+GSPCarima = arima(retGSPC, order=c(0,0,0))
+GSPCcoef = GSPCarima$coef
+GSPCsigma = sqrt(GSPCarima$sigma2)
+varGSPC = GSPCcoef - GSPCsigma * 1.96
+```
+
+
+```{r}
+#B# Best ARIMA models
+fitMDLZ = auto.arima(retMDLZ)
+print(fitMDLZ)
+fitGSPC = auto.arima(retGSPC)
+print(fitGSPC)
+
+fitMDLZ = arima(retMDLZ, order=c(1,0,0))
+fitGSPC = arima(retGSPC, order=c(5,0,5))
+
+```
+
+```{r}
+meanMDLZ = retMDLZ - fitMDLZ$residuals
+var_MDLZ_2 = meanMDLZ - sqrt(fitMDLZ$sigma2)*1.96
+plot(var_MDLZ_2)
+
+meanGSPC = retGSPC - fitGSPC$residuals
+var_GSPC_2 = meanGSPC - sqrt(fitGSPC$sigma2)*1.96
+plot(var_GSPC_2)
+```
+
+
+```{r}
+garchMDLZ <- ugarchspec(
+  variance.model = list(model="sGARCH", garchOrder=c(1,1)),
+  mean.model = list(armaOrder=c(1,0)),
+  distribution.model = "std"
+)
+
+garchFitMDLZ <- ugarchfit(spec = garchMDLZ, data = retMDLZ)
+coef(garchFitMDLZ)
+r_hatMDLZgarch <- garchFitMDLZ@fit$fitted.values
+plot.ts(r_hatMDLZgarch)
+vol_hatMDLZgarch <- ts(garchFitMDLZ@fit$sigma)
+
+
+garchGSPC <- ugarchspec(
+  variance.model = list(model="sGARCH", garchOrder=c(1,1)),
+  mean.model = list(armaOrder=c(5,5)),
+  distribution.model = "std"
+)
+
+garchFitGSPC <- ugarchfit(spec = garchGSPC, data = retGSPC)
+coef(garchFitGSPC)
+r_hatGSPCgarch <- garchFitGSPC@fit$fitted.values
+plot.ts(r_hatGSPCgarch)
+vol_hatGSPCgarch <- ts(garchFitGSPC@fit$sigma)
+```
+
+```{r}
+plot.ts(vol_hatMDLZgarch)
+plot.ts(vol_hatGSPCgarch)
+
+```
+
+```{r}
+#GARCH (1,1) volatility
+GARCHvolMDLZ <- r_hatMDLZgarch-1.96*(vol_hatMDLZgarch)
+GARCHvolGSPC <- r_hatGSPCgarch-1.96*(vol_hatGSPCgarch)
+
+plot(GARCHvolMDLZ)
+plot(GARCHvolGSPC)
+```
+

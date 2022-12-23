@@ -1,0 +1,165 @@
+library("dplyr")
+library("tidyr")
+library("ggplot2")
+
+# Example 1
+
+# Read data
+dt <- read.csv2(file="data/people.csv", sep='|')
+str(dt)
+summary(dt)
+
+# Correctly read the data into a data frame
+# ...
+
+
+# Problems
+levels(dt$Weight)
+levels(dt$BMI)
+levels(dt$Sex)
+
+# Corrections
+# Weight: decimal points
+# BMI: "NULL" -> NA, -> numeric
+# Sex: trim white space characters, -> factor
+dt <- dt |> mutate(
+    Weight = as.numeric(gsub(",", ".", Weight)),
+    BMI = as.numeric(as.character(replace(BMI, BMI == "NULL", NA))),
+    Sex = as.factor(trimws(Sex)),
+    Height = as.numeric(Height)
+  )
+str(dt)
+summary(dt)
+
+# Descriptive statistics
+dt |> summarise(
+  Height = mean(Height, na.rm = TRUE), 
+  Weight = mean(Weight, na.rm = TRUE),
+  BMI = mean(BMI, na.rm = TRUE)
+  )
+
+# Try
+dt |> select(where(is.numeric))
+dt |> select(Height, Weight, BMI)
+
+# Descriptive statistics
+dt |> select(Height, Weight, BMI) |> 
+  summarise(across(everything(), mean, na.rm = TRUE))
+dt |> summarise(across(c(Height, Weight, BMI), mean, na.rm = TRUE))
+dt |> summarise(across(c(Height, Weight, BMI), 
+		list(mean = mean, sd = sd), 
+		na.rm = TRUE, 
+		.names = "{.col}.{.fn}"
+	)) 
+dt |> summarise(across(c(Height, Weight, BMI), 
+    list(mean = mean, sd = sd, var = var, med = median), 
+    na.rm = TRUE, 
+    .names = "{.col}.{.fn}"
+  ))
+
+# Grouping by sex
+dt |> group_by(Sex) |> 
+  summarise(across(c(Height, Weight, BMI), 
+  list(mean = mean, sd = sd, var = var, med = median), 
+  na.rm = TRUE, 
+  .names = "{.col}.{.fn}")) |> 
+  as.data.frame()
+
+# Boxplot
+dt |> ggplot(aes(x = Height)) + 
+  geom_boxplot()
+# .. boxplot for Weight, BMI
+
+# Boxplot - grouping by sex
+dt |> ggplot(aes(x = Sex, y = Height, fill = Sex)) + 
+  geom_boxplot() +
+  labs(y="Height [cm]")
+# .. boxplot for Weight, BMI
+# Note some unexpected values of BMI! 
+
+# Histogram
+ceiling(sqrt(nrow(dt)))
+
+dt |> ggplot(aes(x = Height)) + 
+  geom_histogram(color = "black", fill = "#FFCC00", bins = 23)
+# ...
+
+# Frequency plot as barplot
+dt |> ggplot(aes(x = DogWalker)) + 
+  geom_bar(color = "black", fill = "#FFCC00")
+# ...
+
+# Plot boxplot, histogram and barplot for other columns
+
+# Point plots
+dt |> ggplot(aes(x = Height, y = Weight)) + 
+  geom_point()
+dt |> ggplot(aes(x = Height, y = Weight, color = Sex)) + 
+  geom_point()
+
+# Plot BMI vs. Weight
+# ...
+dt |> ggplot(aes(BMI, Weight)) + geom_point()
+# Note some unexpected values of BMI! 
+
+summary(dt$BMI)
+# Calculate BMI using formula for weight and height
+# Find errors in original BMI calculations
+# ...
+bmi = function (w, h) {
+  return(w/(h/100)^2)
+} 
+dt <- dt |> mutate(BMI.new = bmi(Weight, Height))
+
+# Rename columns to use the new BMI instead of the original, delete additional column BMI.old
+names(dt)
+dt <- dt |> 
+  rename(BMI = BMI.new, BMI.old = BMI) |> 
+  select(-BMI.old)
+names(dt)
+
+# Point plot Weight vs. Height
+dt |> ggplot(aes(x = Height, y = Weight)) + 
+  geom_point() + 
+	labs(x = "height [cm]", y = "weight [kg]")
+
+# Linear regression model with linear function
+m1 <- lm(Weight ~ 1 + Height, data = dt) # or
+m1 <- lm(Weight ~ Height, data = dt)
+summary(m1)
+
+new.x <- data.frame(Height = seq(130, 210, by = 1))
+CI <- predict(m1, newdata = new.x, interval = "confidence", level = 0.95) |> 
+	cbind(new.x)
+pred <- predict(m1, newdata = new.x, interval = "prediction", level = 0.95) |> 
+	cbind(new.x)
+
+ggplot() + 
+  geom_point(data = dt, mapping = aes(x = Height, y = Weight)) + 
+  geom_ribbon(data = CI, mapping = aes(x = Height, ymin = lwr, ymax = upr), size = 0.5, alpha = 0.2, fill = "red", color = "red", linetype = "dashed") + 
+  geom_ribbon(data = pred, mapping = aes(x = Height, ymin = lwr, ymax = upr), size = 0.5, alpha = 0.1, fill = "red", color = "red", linetype = "dashed") + 
+  geom_line(data = CI, aes(x = Height, y = fit), color = "red", size = 1.0) + 
+	labs(x = "height [cm]", y = "weight [kg]")
+
+# Point plot Weight vs. Height according to Sex
+dt |> ggplot(aes(x = Height, y = Weight, color = Sex)) + 
+  geom_point() + 
+	labs(x = "height [cm]", y = "weight [kg]")
+
+# separate parallel regression lines with respect to Sex
+m3 <- lm(Weight ~ Height + Sex, data = dt)
+summary(m3)
+# "dummy variable" for Sex: Sexmale = 1 (male) or 0 (female)
+
+# Calculate fit, confidence and prediction intervals and plot them
+# ...
+
+
+# t-test of equality of BMI for both sexes
+t.test(BMI ~ Sex, data = dt)
+
+# compare mean BMI - grouped by iPhoneOwner
+# ... 
+t.test(BMI ~ iPhoneOwner, data = dt)
+# Explain the result.
+

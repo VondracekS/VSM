@@ -1,0 +1,82 @@
+---
+title: "Neparametricke testy"
+author: "S Vondracek"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+```{r}
+library(tidyverse)
+```
+
+
+Cílem tohoto projektu je pomocí vhodného neparametrického testu ověřit, zda je 
+bakalářský obor Energetika obtížnější, než obor Strojní inženýrství.
+Testování bude probíhat poměrně jednoduchým způsobem, který jsem zvolil
+pouze pro účely tohoto úkolu, a nelze jej považovat za příliš sofistikovaný  
+
+Naše hypotéza stojí na předpokladu, že oba obory navštěvují studenti se stejnými
+předpoklady pro skládání zkoušek. Porovnáním známek v obou skupinách tak můžeme 
+zodpovědět výzkumnou otázku, zda se známky napříč obory liší.
+
+```{r}
+#  data
+data_stud <- as_tibble(read_csv("./data.csv")) %>% map_df(~round(., 2))
+data_stud
+```
+
+
+```{r}
+summary(data_stud)
+```
+
+
+```{r}
+map_df(data_stud, ~var(., na.rm=TRUE))
+```
+Vidíme, že studenti Energetiky mají větší variabilitu co se týče známek
+
+
+```{r}
+data_stud %>% 
+  mutate(id = 1:nrow(data_stud)) %>% 
+  pivot_longer(cols = -id) %>% 
+  ggplot(data = .,
+         aes(x = value, fill=name)) + 
+  geom_density(alpha = 0.5) +
+  ggtitle("Jádrová hustota obou skupin") +
+  scale_x_continuous("Průměr známek") +
+  scale_y_continuous("Hustota pravděpodobnosti") +
+  labs(fill = "Obor")
+```
+
+Pro porovnání obou skupin studentů bude vhodné vykrelit jejich jádrovou hustotu.
+Vidíme, že obor energetika se vyznačuje tím, že studenti mají variabilnější 
+průměr svých známek.
+
+```{r}
+data_stud %>% 
+  mutate(id = 1:nrow(data_stud)) %>% 
+  pivot_longer(cols = -id) %>% 
+  ggplot(data = .,
+         aes(y = value, x=name, fill=name)) + 
+  geom_boxplot()
+```
+
+Rovněž boxplot, nikoliv překvapivě, podporuje naše zjištění.
+
+## Neparametrické testy
+
+Nyní pomocí neparametrických testů otestujeme hypotézu, zda  
+
+$H_0: \mu_{m_eng} = \mu_{energ}$
+
+Tuto rovnici můžeme převést do tvaru
+
+$H0: \mu_{meng} - \mu_{energ} = 0 $
+
+```{r}
+wilcox.test(data_stud$m_eng, data_stud$energ, alternative="two.sided")
+```
+
+

@@ -1,0 +1,5 @@
+"0","#GARCH (1,1) volatility"
+"0","GARCHvolMDLZ <- r_hatMDLZgarch-1.96*(vol_hatMDLZgarch)"
+"0","GARCHvolGSPC <- r_hatGSPCgarch-1.96*(vol_hatGSPCgarch)"
+"0",""
+"0","plot(GARCHvolMDLZ)"

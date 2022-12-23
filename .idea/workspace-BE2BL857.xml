@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4eb5687-581f-43b4-841d-bd93bc411f92" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.RData" beforeDir="false" afterPath="$PROJECT_DIR$/.RData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.Rhistory" beforeDir="false" afterPath="$PROJECT_DIR$/.Rhistory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/pcs/source-pane.pper" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/pcs/source-pane.pper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/pcs/windowlayoutstate.pper" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/pcs/windowlayoutstate.pper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/pcs/workbench-pane.pper" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/pcs/workbench-pane.pper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/rmd-outputs" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/rmd-outputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/sources/per/t/1672A397" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/sources/per/t/1672A397-contents" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/sources/prop/4E06A155" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/sources/prop/4E06A155" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/sources/prop/INDEX" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/D4F5ABCF/sources/prop/INDEX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/paths" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/shared/notebooks/paths" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/countries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/countries_m.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/countries_m.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/film.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/film.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/exc_04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/exc_04.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_reading.R" beforeDir="false" afterPath="$PROJECT_DIR$/data_reading.R" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HamwUJLb0Sn6BoTHnALWsf5GbJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/A200083283/OneDrive - Deutsche Telekom AG/non_DT/uni/WS_22&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4eb5687-581f-43b4-841d-bd93bc411f92" name="Changes" comment="" />
+      <created>1668531807282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668531807282</updated>
+      <workItem from="1668531808638" duration="5103000" />
+      <workItem from="1669065248353" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

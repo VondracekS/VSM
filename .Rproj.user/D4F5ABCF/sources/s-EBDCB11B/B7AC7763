@@ -1,26 +1,24 @@
 {
-    "id": "1672A397",
-    "path": null,
+    "id": "B7AC7763",
+    "path": "C:/Users/A200083283/Desktop/cviceni/cviceni/data/people.csv",
     "project_path": null,
-    "type": "urlcontent",
+    "type": "text",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1664518681015.0,
+    "created": 1670068196429.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
-        "title": "R data sets",
-        "contentUrl": "content?title=R+data+sets&file=f805b3a526f64e998d5df10ad29bc239",
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 3473746950756265827,
-    "encoding": "",
+    "lastKnownWriteTime": 1661179032,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1664518681015,
+    "last_content_update": 1661179032,
     "read_only": false,
     "read_only_alternatives": []
 }
