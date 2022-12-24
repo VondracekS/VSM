@@ -1,9 +1,0 @@
-"0","data_stud %>% "
-"0","  mutate(id = 1:nrow(data_stud)) %>% "
-"0","  pivot_longer(cols = -id) %>% "
-"0","  ggplot(data = .,"
-"0","         aes(y = value, x=name, fill=name)) + "
-"0","  geom_boxplot()"
-"2","Warning:"
-"2"," Removed 7 rows containing non-finite values (stat_boxplot).
-"

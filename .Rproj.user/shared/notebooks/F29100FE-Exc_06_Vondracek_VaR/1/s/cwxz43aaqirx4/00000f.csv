@@ -1,7 +1,0 @@
-"0","lnMDLZ = log(MDLZ)"
-"0","lnGSPC = log(GSPC)"
-"0",""
-"0","retMDLZ = diff(lnMDLZ)"
-"0","retGSPC = diff(lnGSPC)"
-"0","retMDLZ = retMDLZ[-c(1),]"
-"0","retGSPC = retGSPC[-c(1),]"

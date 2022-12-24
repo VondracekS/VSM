@@ -1,7 +1,0 @@
-"0",""
-"0","meanGSPC = retGSPC - fitGSPC$residuals"
-"2","Warning:"
-"2"," Incompatible methods (""Ops.xts"", ""Ops.ts"") for ""-""
-"
-"0","var_GSPC_2 = meanGSPC - sqrt(fitGSPC$sigma2)*1.96"
-"0","plot(var_GSPC_2)"

@@ -1,6 +1,0 @@
-"0","meanMDLZ = retMDLZ - fitMDLZ$residuals"
-"2","Warning:"
-"2"," Incompatible methods (""Ops.xts"", ""Ops.ts"") for ""-""
-"
-"0","var_MDLZ_2 = meanMDLZ - sqrt(fitMDLZ$sigma2)*1.96"
-"0","plot(var_MDLZ_2)"

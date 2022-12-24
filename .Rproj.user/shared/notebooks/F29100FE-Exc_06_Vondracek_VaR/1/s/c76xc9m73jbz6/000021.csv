@@ -1,3 +1,0 @@
-"0",""
-"0","qGSPC = quantile(retGSPC, 0.05)"
-"0","hist(retGSPC, breaks=30)"
