@@ -1,6 +1,5 @@
 # Load a convert the RDATA
 library(tidyverse)
-setwd("C:/Users/A200083283/OneDrive - Deutsche Telekom AG/non_DT/uni/WS_22/VSM")
 
 rm(list=ls())
 
